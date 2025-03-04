@@ -3,7 +3,6 @@ from summ_eval.rouge_metric import RougeMetric
 from summ_eval.multilingual_rouge_we_metric import MultilingualRougeWeMetric
 from summ_eval.bleu_metric import BleuMetric
 from summ_eval.bert_score_metric import BertScoreMetric
-#from summ_eval.mover_score_metric import MoverScoreMetric
 from summ_eval.chrfpp_metric import ChrfppMetric
 from summ_eval.meteor_metric import MeteorMetric
 from summ_eval.multilingual_meteor_metric import MultilingualMeteorMetric
@@ -39,17 +38,14 @@ if __name__ == "__main__":
 
 	
 	if args.lang == "eu":
-		emb_path = "/home/jeremy/Exps/summarization/experiments/SummEval/evaluation/summ_eval/embeddings/cc.eu.300.vec.gz"
+		emb_path = "../SummEval/evaluation/summ_eval/embeddings/cc.eu.300.vec.gz"
 		stemmer = snowballstemmer.stemmer("basque")
 	else:
-		emb_path = "/home/jeremy/Exps/summarization/experiments/SummEval/evaluation/summ_eval/embeddings/cc.es.300.vec.gz"
+		emb_path = "../SummEval/evaluation/summ_eval/embeddings/cc.es.300.vec.gz"
 		stemmer = snowballstemmer.stemmer("spanish")
 
 	
 	# Load all metrics except mrougewe
-
-	# need to fix rouge to work without stemming or using already stemmed tokens
-	#rouge = RougeMetric(rouge_args="-c 95 -2 -1 -U -r 1000 -n 4 -w 1.2 -a") # we use Rouge without the Porter stemmer, as it only works for English
 	rouge = RougeMetric()
 	bertscore = BertScoreMetric()
 	bleu = BleuMetric()
@@ -158,9 +154,7 @@ if __name__ == "__main__":
 			stemmed_summs = [" ".join(stemmer.stemWords(summ.split())) for summ in tokenized_summs]
 			stemmed_refs = [[" ".join(stemmer.stemWords(summ.split())) for summ in ref] for ref in tokenized_refs]
 
-			# Evaluate rouge metrics
-			# Currently uses English stemmer -- need to fix
-			# Need to tokenize and lowercase text
+			# ROUGE
 			if "rouge" in metrics:
 
 				d = rouge.evaluate_batch(tokenized_summs, tokenized_refs)
@@ -190,20 +184,6 @@ if __name__ == "__main__":
 						model_x[metric] = [d[metric]]
 					else:
 						model_x[metric].append(d[metric])
-				
-
-			# MoverScore - uses distilbert, need to update for Spanish/Basque
-			"""
-			d = moverscore.evaluate_batch(summs, refs)
-			for metric in bertscore_metrics:
-				if metric not in model_x:
-					model_x[metric] = [d[metric]]
-				else:
-					model_x[metric].append(d[metric])
-			"""			
-
-			# SMS
-			# doesn't work right now because of reliance on glove embeddings taken from spacy or elmo
 
 
 			# BLEU
@@ -303,6 +283,8 @@ if __name__ == "__main__":
 			spear_data[i,j] = s
 
 	models = ['claude-base', 'claude-cot', 'claude-5w1h', 'claude-tldr', 'commandr-base', 'commandr-cot', 'commandr-5w1h', 'commandr-tldr', 'gpt4o-base', 'gpt4o-cot', 'gpt4o-5w1h', 'gpt4o-tldr', 'reka-base', 'reka-cot', 'reka-5w1h', 'reka-tldr', 'llama3-base', 'llama3-cot', 'llama3-5w1h', 'llama3-tldr']
+
+	os.makedirs("correlations", exist_ok=True)
 
 	# print results for Kendall's Tau
 	print("Tau correlations")

@@ -61,5 +61,7 @@ if __name__ == "__main__":
 
 	df = pd.DataFrame(model_data)
 
+	os.makedirs("correlations", exist_ok=True)
+
 	with open("correlations/" + args.lang + "_model_eval.txt", "w") as outfile:
 		outfile.write(df.to_latex(index=False, float_format="%.2f"))
