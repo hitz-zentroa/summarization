@@ -5,7 +5,7 @@ import os
 
 models = ['🤖 Claude Sonnet 3.5', '🤖 Command R+', '🤖 GPT 4o', '🤖 Reka Core', '🤖 Llama-3.1-70b-instruct']
 round3_models = ['🤖 Claude Haiku 3.5', '🤖 Command R+', '🤖 GPT 4o', '🤖 Reka Flash', '🤖 Llama-3.1-70b-instruct']
-prompts = ["Base", "CoT", "5W1H", "tldr"]
+prompts = {"Base": "base", "CoT": "core", "5W1H": "5w1h", "tldr": "tldr"}
 criteria = ["Coherence", "Consistency", "Fluency", "Relevance", "5W1H"]
 
 name_map = {'🤖 Claude Sonnet 3.5': "claude",
@@ -125,8 +125,8 @@ if __name__ == "__main__":
 
 	# get model evals
 	for model in models:
-		for prompt in prompts:
-			name = name_map[model] + '-' + prompt.lower()
+		for prompt, pname in prompts.items():
+			name = name_map[model] + '-' + pname
 			
 			for ann, docs in ann_files.items():
 				dfs = []
@@ -158,8 +158,8 @@ if __name__ == "__main__":
 			
 	# Round 3 is a bit different - 2 models changed and only one annotator per doc
 	for model in round3_models:
-		for prompt in prompts:
-			name = name_map[model] + '-' + prompt.lower()
+		for prompt, pname in prompts.items():
+			name = name_map[model] + '-' + pname
 
 			# need to keep track of the annotators to deal with the idx
 			for i, (ann, xls) in enumerate(round3.items()):
