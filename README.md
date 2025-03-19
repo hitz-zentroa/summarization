@@ -37,13 +37,13 @@ Each line is a json object with the following keys, value pairs:
 
 * `'round'`: (Int) 1, 2, or 3 - Which annotation round this example comes from: rounds 1 and 2 have 3 annotations per criteria and 3 human reference summaries per document, while round 3 only has a single annotation and reference summary.
 
-* `original_document'`: (String) The original news document to be summarized.
+* `'original_document'`: (String) The original news document to be summarized.
 
 * `'reference_summaries'`: (List) The human-generated referece summaries. 3 per document in rounds 1 and 2, and a single reference summary per document for round 3.
 
 * `'model_summaries'`: (Dict) The generated summary and its human annotations on a 5-point Likert scale for the 5 criteria: Coherence, Consistency, Fluency, Relevance, and 5W1H. The model key is a combination of model and prompt, e.g "claude-base". We also include annotations for the subhead baseline ("subhead") and similarly include the evaluations of the human reference summaries are included in rounds 1 and 2 ("human-ann1", "human-ann2", "human-ann3"). Note that these only have 2 annotations per summary.
 
-For example, the first instance in es/BASSE.jsonl would contain the following information:
+For example, the first instance in es/BASSE.jsonl would contain the following information (note that we cut off long summaries and only include two examples of model summaries, while in reality there are 24 models: 5 models x 4 prompts + 3 human refs + 1 subhead):
 
 ```
 {
