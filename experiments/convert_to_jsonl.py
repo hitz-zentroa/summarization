@@ -263,7 +263,7 @@ if __name__ == "__main__":
 
 
 	# save as a jsonl file
-	outname = os.path.join("..", args.lang, "summ.jsonl")
+	outname = os.path.join("..", args.lang, "BASSE.jsonl")
 	with open(outname, "w") as outfile:
 		for example in data:
 			json.dump(example, outfile)
