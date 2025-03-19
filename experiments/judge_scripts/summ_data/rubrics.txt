@@ -1,0 +1,68 @@
+All of the criteria will be annotated using a 5 point Likert scale (1-5)
+
+Coherence - the collective quality of all sentences. We align this dimension with the DUC quality question (Dang, 2005) of structure and coherence whereby “the summary should be well-structured and well-organized. The summary should not just be a heap of related information, but should build from sentence to sentence to a coherent body of information about a topic.” Para aclarlo más fácil, si fueras profesor/a del idioma, ¿cómo puntuarías el flujo de ideas? ¿El resúmen tiene conectores para conectar ideas? No importa si hay fallos de información o gramática. Si es simplemente una lista de eventos, lo penalizamos. No penalizamos si es solo una frase.
+(5) un texto bien redactado, (1) una serie de eventos sin orden ni conectores temporales/etc.
+1: Serie de eventos (solo en bullet points) pero sin coherencia interna (ej. Palabras sueltas)
+2: Solo bullet points y falta de coherencia en las sintagmas (e.g., 1. Teclado, 2. Ver la tele)
+3: ¿Qué hacemos con los bullet points? Si los puntos están desarrollados, podemos poner 3.
+4: Coherencia implícita: no hay conectores, pero las frases tienen un flujo temporal/causal.
+5:  Coherencia explícita: hay recursos/herramientas textuales que marcan en el texto las relaciones entre ideas, e.g. , conectores temporales, marcadores discursivos
+
+Consistency - the factual alignment between the summary and the summarized source. A factually consistent summary contains only statements that are entailed by the source document. Annotators were also asked to penalize summaries that contained hallucinated facts. Es decir ¿alucina o se inventa información? Si hay información que no está en el texto original, lo penalizamos. Para las expresiones temporales relativas (hoy, ayer, este año), si la expresión es consistente con la información del original, consideramos que el resumen es consistente y no penalizamos.
+1: el resumen no contiene ningún idea del texto original
+2: Contiene muchos datos de información no veraz 
+3: Contiene varios datos de información no veraz
+4: contiene 1 dato de información no veraz 
+5: no miente
+
+Fluency - the quality of individual sentences. Drawing again from the DUC quality guidelines, sentences in the summary “should have no formatting problems, capitalization errors or obviously ungrammatical sentences (e.g., fragments, missing components) that make the text difficult to read.” ¿El resumen está escrito siguiendo la gramática y ortografía del idioma? Si tiene fallos, lo penalizamos. Nos fijamos solo en la gramática y en la adecuación. A veces puede ser un estilo un poco forzado, pero si es correcto, lo damos por bueno.
+1: hay muchos fallos de gramática importantes o se mezclan variedades/dialectos de manera muy poco natural e incomodante o el resumen está en una lengua que no es la demandada
+2: hay varios fallos de gramática importantes o se mezclan variedades/dialectos de manera muy poco natural e incomodante
+3: hay fallos de gramática de menor importancia o se mezclan variedades/dialectos de manera poco natural e incomodante
+4: hay unos pocos fallos de gramática
+5: hay ningún fallo de gramática ni ortografía y además se usa una variedad única del idioma/dialecto
+
+
+Relevance - selection of important content from the source. The summary should include only important information from the source document. Penalize summaries that contain redundancies and excess information. Es decir, ¿el resumen contiene solo información relevante del texto original? Si el resumen tiene información irrelevante (redundancias, información extra), lo penalizamos. También se penalizan frases como “¿Te gustaría que elabore algún aspecto específico de este resumen?” que generan los modelos. Como no añaden información relevante, penalizamos su presencia (-1 a la nota final). Finalmente, también penalizamos la presencia de valoraciones subjetivas, porque no son parte del texto original. (-1 a la nota final)
+1: el resumen es el texto original o solo contiene información irrelevante
+2: el resumen contiene mucha información irrelevante
+3: el resumen contiene una mezcla de información relevante e irrelevante
+4: la mayoría de la información es relevante
+5: toda la información en el resumen es muy relevante
+
+	
+Si son noticias con varios hilos discursivos / listas de acontecimientos:
+5: el resumen contiene los elementos esenciales del hilo principal, más los importantes del 2. hilo si aportan al hilo principal 
+4: el resumen contiene los elementos esenciales del hilo principal, más unos pocos del 2. hilo si no aportan al hilo principal
+3: el resumen contiene los elementos esenciales del hilo principal, pero sobran varios elementos del 2. hilo o elementos no importantes del hilo principal
+2: el resumen contiene muchos elementos irrelevantes pero alguna relevante
+1: el resumen no contiene ninguno de los elementos esenciales
+
+
+5W - maintenance of all important information from the source. The summary should not lack any important information available in the source document.
+
+	¿Falta algún W relevante del texto original en el resumen?
+
+(5) el resumen tiene todos las W relevantes del texto original (1) el resumen no tiene ninguna de las W relevantes
+4 casi todas (falta 1 relevante)
+3 están algunas, pero no todas (Hay 3 o 4)
+2 casi ninguna (hay 1 o 2)
+Si hay muchos W, no penalizamos si el resumen solo tiene los principales y le faltan los menos relevantes
+Cuando hay varios hilos: 5: todas las W esenciales del hilo principal + las importantes del 2. hilo si aportan al hilo principal (ej. Los expertos en sharenting)
+
+
+
+Casos que pueden aparecer:
+
+
+El resumen es casi el mismo que el texto original.
+Coherence: 5  - consideramos que un texto escrito por un/a periodista merece 5 consistency: 5 - no ha añadido información nueva,
+                        fluency: 5        - es el mismo texto sin fallos gramaticales, etc.
+                        relevance: 1    - no resume nada, mucha información irrelevante
+                        5w: 5               - no deja fuera ninguna W 
+
+
+
+
+	
+
