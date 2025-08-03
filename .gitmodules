@@ -1,0 +1,3 @@
+[submodule "lib/SummEval"]
+	path = lib/SummEval
+	url = https://github.com/Yale-LILY/SummEval.git

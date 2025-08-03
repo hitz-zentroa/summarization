@@ -1,0 +1,1074 @@
+model,feedback,score
+claude-base,(Consistency) [RESULT] 3,3
+claude-base,(Consistency) [RESULT] 2,2
+claude-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-base,(Consistency) [RESULT] 5 (an integer number between 1 and 5),3
+claude-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-base,"(Consistency) [RESULT] 5
+
+The summary is completely factual. It accurately reflects the key points from the original text without introducing any new or incorrect information.",3
+claude-base,(Consistency) [RESULT] 4,4
+claude-base,(Consistency) [RESULT] 5,5
+claude-base,"(Consistency) The response accurately captures the key points of the original text, including the idea of creating a protocol for different types of harmful behaviors, the concern about the lack of effectiveness of current measures, and the emphasis on safety and responsible behavior. However, it does not explicitly mention the specific protocols mentioned by Nafarroaren Eguneko antolatzailea or the fact that some protocols may not be fully implemented. [4]",3
+claude-base,(Consistency) [RESULT] 4,4
+claude-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-base,"(Consistency) The response provides a comprehensive and accurate summary of the original text, capturing key details such as Baxok's background, academic and professional achievements, and significant contributions in soziolinguistics without introducing any incorrect or fabricated information. [5]",3
+claude-base,(Consistency) [RESULT] 5,5
+claude-base,"(Consistency) The response accurately summarizes the key points from the original text without introducing any new or incorrect information. It covers the formation of Itziar Laka, her role at Eusko Ikaskuntza-Laboral Kutxa, the establishment of the first experimental and neuro-linguistic research team in 2010, and the current position of Euskara Sustatzeko Zuzendaritzako. The summary also includes relevant details about the scientific achievements and the impact on the sustenance of the Basque language in universities and society. [5]",3
+claude-base,(Consistency) [RESULT] 5,5
+claude-base,"(Consistency) The response provides a detailed translation of the original text rather than a summary, containing many factual details not present in the reference answer. It includes specific names, dates, and details about the agreement made by the company, which are not mentioned in the reference summary. [RESULT] 2",2
+claude-base,(Consistency) [RESULT] 4,4
+claude-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-base,"(Consistency) The response accurately captures the key points from the original text, including the names of the surfers, their rankings, and the upcoming Olympics. However, it introduces some new information not present in the original text, such as the specific dates for the Olympics and additional details about the surfers' experiences. This slightly reduces consistency. [4]",3
+claude-base,(Consistency) [RESULT] 5,5
+claude-base,"(Consistency) [RESULT] 4
+
+The response provides a coherent summary but includes some inaccuracies. For instance, the reference answer specifies that the portraits are black and white, which is not mentioned in the response. Additionally, the response states that the project aims to highlight local historical figures who made important contributions but weren’t given proper recognition, whereas the reference answer correctly notes that these women were not historically documented well. These discrepancies reduce the score to 4 from a perfect 5.",3
+claude-base,"(Consistency) The response includes several hallucinations, such as the proposal of a 15,000 euro bond, which was not mentioned in the original text. It also incorrectly states that the suspect communicated with the victim, which was not present in the original text. [RESULT] 2",2
+claude-base,"(Consistency) [RESULT] 5
+
+The response accurately summarizes the key points from the original text without introducing any new or incorrect information. It correctly mentions Siemens Gamesa's strategic plans, the challenges faced by the sector such as cost increases, technological advancements, and competition from Chinese companies. Additionally, it captures the critical points regarding employment, the stance of relevant authorities, and the strategies proposed to support the sector.",3
+claude-base,(Consistency) [RESULT] 5,5
+claude-base,"(Consistency) [4] The summary contains one incorrect piece of information. The reference answer mentions that the operation began in late 2023, while the response states that the operation began in the early 2023.",3
+claude-base,(Consistency) [RESULT] 2,2
+claude-base,"(Consistency) The response accurately summarizes the key events and matches the temporal details provided in the original text, such as the dates and times of the matches. However, it introduces a minor inconsistency by mentioning ""Bartzelonaren aurka"" instead of ""Bartzelonen aurka"" (Barcelona's team). This small error reduces the overall consistency but does not significantly detract from the overall accuracy.
+
+[4]",4
+claude-base,(Consistency) [RESULT] 4,4
+claude-base,(The summary contains once incorrect piece of information.) [RESULT] 4,4
+claude-base,(Consistency) The response contains multiple inaccuracies and omissions compared to the reference answer. It does not align with the original text in terms of key details such as the specific scores and outcomes of matches. [3],3
+claude-base,(Consistency) [RESULT] 2,2
+claude-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-base,(Consistency) [RESULT] 5 (an integer number between 1 and 5),3
+claude-base,"(Consistency) [RESULT] 4 (an integer number between 1 and 5)
+
+The response provides a detailed and accurate translation of the original text, which aligns well with the reference answer. However, the task specifically asks for a summary, not a translation. Therefore, it contains one incorrect piece of information: the format of the response being a summary rather than a translated version.",3
+claude-base,"(Consistency) The response includes several incorrect pieces of information, such as the exact location being 60 kilometers from the Arctic Circle instead of 60 kilometers from the Yamalo-Nenets district, and the summary does not mention the exact distance from Moscow where Navalny was detained. Additionally, the response states that Navalny was 47 years old when he died, which is correct but not aligned with the reference answer that mentions he received the Sakharov Prize in 2021, indicating he was younger. 
+
+[3]",3
+claude-base,(Consistency) [RESULT] 5,5
+claude-base,(Consistency) [RESULT] 4,4
+claude-base,(Consistency) [RESULT] 5,5
+claude-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-base,(Consistency) [RESULT] 5 (an integer number between 1 and 5),3
+claude-base,(Consistency) [RESULT] 4,4
+claude-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-base,"(Consistency) The response provides a detailed translation of the original text without adding any new information or altering the facts, which aligns perfectly with the reference answer. [5]",3
+claude-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-base,(Consistency) [RESULT] 4,4
+claude-core,"(Consistency) [RESULT] 4
+
+The response contains one incorrect piece of information. The reference answer mentions that the Catamarca Auzitegi Nagusiak is an initiative of the provincial government and the indigenous community, while the response incorrectly states that it is a response to the provincial government's decision. This introduces a deviation from the original text.",3
+claude-core,(Consistency) [RESULT] 3,3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Evaluation based on consistency) [RESULT] 4,4
+claude-core,(Consistency) [RESULT] 5,5
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Implicitly checks for consistency with the original text) [RESULT] 4,4
+claude-core,"(Consistency) The response accurately reflects the key points of the original text, including the reason for the arrest, the time and place of the meeting, and the context provided by Euskal Irrati. [5]",3
+claude-core,"(Consistency) The response accurately summarizes the key events and details from the original text, mentioning the public reaction to the sexual assault, the actions taken by the local council, and the protest slogan. However, it lacks some specific details such as the location (Etxebarriko) and the exact wording of the protest slogan ('Erasorik ez, erantzunik gabe'). [4]",3
+claude-core,(Consistency) [RESULT] 4,4
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,"(Consistency) The response accurately reflects the original text, mentioning key points such as Itziar Lakari's role at Eusko Ikaskuntza-Laboral Kutxa, her contributions to experimental and neuro-linguistics research, and the establishment of EUSKARAREN (Euskara Sustatzeko Zuzendaritzak). There are no hallucinated facts or inconsistencies. [5]",3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,"(Edukirik garrantzitsuena da lau euskal surflari sailkatu direla 2024ko Parisko Olinpiar Jokoetarako, Puerto Ricon jokatutako Munduko Txapelketaren bidez.) [RESULT] 4",4
+claude-core,"(Consistency) The response accurately captures key points from the original text, such as the author, the literary genre, and the focus on the protagonist's experiences after a tragedy. However, it does not fully capture the detailed analysis of the narrative style and poetic elements as provided in the reference answer. [RESULT] 4",4
+claude-core,"(Consistency) The response accurately reflects the key points from the original text, including the artists involved, the project WikiEmakumeok, and the purpose of creating visual representations of historical women. However, it introduces some minor inconsistencies, such as the specific names of the artists and the details about the project's scope. [RESULT] 4",4
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,"(Score 5) (Consistency) The summary accurately reflects the key points from the original text, including the fact that Siemens Gamesa will present its strategic plan in late September, the reasons behind the significant loss of jobs due to cost increases, technological innovation, and competition from Chinese companies, and the efforts by regional governments and the Spanish government to support the sector. There are no hallucinated facts in the summary. 5",3
+claude-core,"(Consistency) The response provides a good summary of the key points from the original text but includes some inaccuracies, such as not mentioning the collaboration with Zaldiero for illustrations and the specific content about the book's format and illustrations. [4]",3
+claude-core,(Consistency) [RESULT] 4,4
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 2,2
+claude-core,(Consistency) [RESULT] 4,4
+claude-core,"(Consistency) The response provides a detailed summary but includes some inaccuracies, such as the specific details about the documentary's premiere location and the exact timing of its broadcast. It also omits some important information, like the specific mention of the 12-14 years old age group and the detailed discussion of sexual health education and communication within families.
+
+[3]",3
+claude-core,"(Consistency) The response accurately summarizes key points from the original text, including the match result, Artola's performance, and the upcoming match. However, it misses some details such as the specific matches where Artola played, the exact scores of the matches, and the context of the final match. [4]",3
+claude-core,"(Consistency) The response includes several inaccuracies compared to the reference answer. It omits important details such as the specific number of casualties and the involvement of women in the attack. It also simplifies some key points, like the fact that AEB agents have not seen evidence of Ukraine or Ukrainian civilians being involved in the attack. [3]",3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,"(Consistency) The response contains several incorrect pieces of information, such as the reason for Navalni's arrest and the details about the opposition leaders' reactions. [3]",3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4,4
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4,4
+claude-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-core,(Consistency) [RESULT] 4,4
+claude-core,(Consistency) [RESULT] 4,4
+claude-core,(Consistency) [RESULT] 4,4
+claude-5w1h,(Consistency) [RESULT] 3,3
+claude-5w1h,(Consistency) [RESULT] 4,4
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5 (an integer number between 1 and 5),3
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 3,3
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-5w1h,"(Consistency) The response provides a detailed analysis using the 5W1H method but includes some factual discrepancies compared to the reference answer. For example, it mentions that Etxebarriko Udala was the one who initiated the protest and used ""Erasorik ez, erantzunik gabe"" banners, whereas the reference answer states that the protesters used these banners. Additionally, the response incorrectly states that the Ertzaintza initiated an investigation, which is not mentioned in the original text. [4]",3
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,"(Consistency) The response provides a detailed summary of the original text, including key information such as the surfers who qualified for the Olympics, their rankings, and the locations where they competed. However, it lacks the historical context provided in the reference answer, such as the previous performance of Pauline Ador in Tokyo 2021. Additionally, it does not mention the specific rankings of the surfers in the World Championships or the significance of the qualification for the Olympics. 
+
+[RESULT] 4",4
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-5w1h,"(Consistency) [4] The summary contains one incorrect piece of information. The reference answer mentions that 55 million euros worth of contraband was seized, but the response states that the contraband's value on the market was more than 55 million euros, which is not explicitly mentioned in the original text.",3
+claude-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-5w1h,(Consistency) [RESULT] 4,4
+claude-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,"(Consistency) [RESULT] 4
+
+The response contains a few inconsistencies compared to the original text. Specifically, it mentions that Artola will play in Bilbao's Basque region, but the reference answer specifies that he will play in Bilbao's Bizkaia region. Additionally, the response states that Elordi will play for Bilbao, while the reference answer indicates that Ezkurdi will play for Bilbao. These discrepancies reduce the score to 4 instead of 5.",3
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,"(Consistency) The response accurately captures key points from the original text, including the criticism of the energy sector's fines by the Spanish government, the call for increased investment, and the stance of companies like Repsol and Petronor regarding their investments and regulations. However, it lacks some specific details such as the exact amounts mentioned by Iñigo Ansola and the full context of the labor union's critique. The summary does not contain any hallucinated information but could benefit from more precise details. [RESULT] 4",4
+claude-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,(Consistency) [RESULT] 2,2
+claude-5w1h,"(Consistency) The response provides a detailed analysis using the 5W1H method, which covers most of the key points from the original text. However, it does not present the information in a concise summary form as required. It lacks the brevity and directness expected in a summary, which makes it less suitable for quick comprehension. 
+
+[RESULT] 3",3
+claude-5w1h,"(Consistency) The response includes some factual inaccuracies and omissions compared to the original text, such as missing specific details about the number of people affected and the specific regions mentioned. [3]",3
+claude-5w1h,"(Consistency) The response provides a summary but it does not align well with the original text in several aspects. It fails to mention key points such as the structure of the book into 11 years, 11 months, and 11 days, the unique features of each section, and the use of metaphorical elements like the fetus and the matrix. Additionally, it misses important details about the author's journey from biology to poetry and the collaborative process with Tere Irastorza. [RESULT] 2",2
+claude-5w1h,"(ZER) (The summary includes the correct locations and events mentioned in the original text, but it contains some additional information not explicitly stated, such as the specific date and the reaction of EH Bildu.) [RESULT] 4",4
+claude-5w1h,(Consistency) [RESULT] 4,4
+claude-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-5w1h,(Consistency) [RESULT] 5,5
+claude-5w1h,"(Consistency) [RESULT] 5
+
+(North) [RESULT] 5
+
+(When) [RESULT] 5
+
+(Where) [RESULT] 5
+
+(Why) [RESULT] 5
+
+(How) [RESULT] 5",5
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,(Consistency) [RESULT] 4,4
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,(Consistency) [RESULT] 5,5
+claude-tldr,(Consistency) [RESULT] 5,5
+claude-tldr,"(Consistency) The response accurately captures the main points of the original text, including the proposal of a low-emission area in Bilbao, the criticism from Jauzi Ekosoziala regarding classism, and the opposition to private cars. However, it omits some specific details such as the exact nature of the protest, the mention of Iberdrola's executive, and the detailed arguments against private cars. [4]",3
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,"(Consistency) The response includes some correct information but also contains a few inaccuracies and omissions. It correctly mentions the actions of the political parties and the nature of the protest, but it fails to mention key details such as the specific events of 1978 and the involvement of the police. [3]",3
+claude-tldr,(Consistency) The response provides a reasonable summary of the key points but includes some inaccuracies and omissions. It correctly mentions the joint protocol to address various types of harassment but does not capture the detailed discussion about the challenges in implementing these protocols and the need for more secure spaces. The response also omits the mention of specific organizations participating in the initiative. [RESULT] 3,3
+claude-tldr,"(Consistency) The response accurately captures the key points of the original text, such as Zuhaitz Errasti being arrested by French police, the reason for the arrest, the plan to meet at 20:00 at the Angel Jendarmerie, and the criticism from Euskal Irrati. However, it misses some details like the specific mention of Euskal Irratien's skepticism and the exact location of the arrest. [4]",3
+claude-tldr,"(Consistency) The response includes several inaccuracies, such as mentioning ""Udalak"" as the entity organizing the event, which is not mentioned in the original text. It also incorrectly states that ""Ertzaintzak ikerketa abiatu du,"" while the original text says they ""ikertzen ari da"" (have begun). Furthermore, it misrepresents the location of the event as ""Etxebarriko,"" whereas the original text specifies ""Etxebarrin."" [RESULT] 3",3
+claude-tldr,(Consistency) [RESULT] 4,4
+claude-tldr,(Consistency) [RESULT] 5,5
+claude-tldr,"(Consistency) The response includes several inaccuracies, such as omitting the detail about Eusko Ikaskuntzak's role in supporting experimental and neuro-linguistics research, and the specific role of EUSKARAREN in the EHU Euskara Sustatzeko Zuzendaritzako. [3]",3
+claude-tldr,(Consistency) [RESULT] 5,5
+claude-tldr,(Consistency) [RESULT] 4,4
+claude-tldr,(Consistency) [RESULT] 4,4
+claude-tldr,"(Consistency) The response accurately summarizes the key points of the original text, mentioning the Ruraltxa project, its funding, the visit to Joseba Insausti's cabin, and the traditional meal. However, it omits some details present in the reference answer, such as specific names of organizations involved and the cultural significance emphasized by Parketxe Sareko zuzendari. There is one incorrect piece of information regarding the exact number of participants in the visit. [RESULT] 4",4
+claude-tldr,(Consistency) [RESULT] 4,4
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,"(Consistency) The response accurately captures the key points from the original text, including the timing of Siemens Gamesa's presentation, the challenges faced by the wind power sector, and the concerns raised by the unions. However, it slightly omits some details, such as the specific reasons for potential job losses and the exact nature of the technological competition. [4]",3
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,"(Consistency) The response contains factual inconsistencies, such as missing details about the MDMA and the specific locations where the drugs were seized. It also omits important information about the seizure value and the types of substances involved. [3]",3
+claude-tldr,(Consistency) [RESULT] 5,5
+claude-tldr,"(Consistency) The response does not accurately reflect the details provided in the original text, such as the specific teams playing each other, the dates and times of the matches, and the context of the upcoming Super Cup match. [RESULT] 2",2
+claude-tldr,(Consistency) [RESULT] 4,4
+claude-tldr,"(Consistency) The response provides a summary that includes some accurate points but also contains several incorrect pieces of information, such as the specific details about the number of episodes and their airing times, which are not mentioned in the original text. Additionally, the summary does not cover all the key points presented in the reference answer, such as the exact location of the documentary's premiere and the specific mentions of the family members involved. 
+
+[3]",3
+claude-tldr,(Consistency) [RESULT] 4,4
+claude-tldr,"(Consistency) The response provides a concise summary but omits several key details present in the reference answer, such as the exact number of fatalities and injuries, the involvement of armed individuals in initiating the concert, and the specific actions taken by social media platforms. It also simplifies some complex statements without providing necessary context. [3]",3
+claude-tldr,(Consistency) [RESULT] 5,5
+claude-tldr,"(Consistency) The response accurately captures key points from the original text, including criticism of the energy tax by Ansola, the financial contributions of Petronor to Vizcaya, and the labor union's critique of the government's energy transition strategy. However, it omits some details such as the specific mention of Repsol and Petronor's potential halt in investments and the exact nature of the financial impact on Vizcaya. Additionally, it does not fully capture the criticism of the government's alignment with business interests and the call for a progressive fiscal reform. 
+
+[RESULT] 4",4
+claude-tldr,"(Consistency) The response includes several inaccuracies and lacks the depth required by the reference answer. It fails to mention the specific poem ""Arkeologia haragitan,"" the €1,000 prize, the artwork by Imanol Larrinaga, and the publication by Balea Zuria. It also misses key details about the jury's praise and the author's background. [RESULT] 2",2
+claude-tldr,"(Consistency) The response includes some factual inaccuracies and missing key details. For instance, it omits the details about Navalny being sentenced to 30 years in a strict-regime prison and being arrested in an apartment in Moscow. Additionally, the response incorrectly states that Navalny was only sentenced to 30 years in a strict-regime prison without mentioning his arrest in Moscow, which is a significant detail. The summary also fails to mention that Navalny was awarded the Sakharov Prize in 2021 and that he is considered a key critic of President Putin. 
+
+[RESULT] 3",3
+claude-tldr,(Consistency) [RESULT] 4,4
+claude-tldr,"(Consistency) The response provides a good overview of the key points from the original text, mentioning the total amount of funding, the types of projects, and the involvement of different entities. However, it incorrectly states that the total funding was 2.116 million euros instead of 2.116 million euros, and it does not mention the specific amounts for each category of funding as accurately as the reference answer. 
+
+[4]",4
+claude-tldr,"(Consistency) [RESULT] 4
+
+The summary contains one incorrect piece of information. Specifically, the reference answer mentions that 250 professionals and more are involved, whereas the response states ""250 sukaldaritzako profesional baino gehiagok"". This slight discrepancy reduces the score to 4 instead of 5.",3
+claude-tldr,"(Consistency) The response accurately captures the main points of the text, including the predicted challenges in 2024, the funding shortfall, and the impact on humanitarian efforts. It does not introduce any new or incorrect information. [5]",3
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,(Consistency) Score 4,4
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+claude-tldr,"(Consistency) [RESULT] 5
+
+The response accurately captures the key points from the text without introducing any hallucinated information. It mentions the revival of Galeusca literary meetings, the motivations behind them, the context of recent judicial and administrative actions, and the broader goals including cultural resistance and mutual support. The summary aligns well with the reference answer, making no factual errors.",3
+claude-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 5,5
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 5,5
+commandr-base,(Consistency) [RESULT] 5,5
+commandr-base,"(Consistency) [RESULT] 5
+
+The response accurately reflects the key points of the original text, including the proposal of a low-emission vehicle zone by Bilbao City Council, the criticism of the proposal by Jauzi Ekosoziala as being classist, and the preference for public transport over private cars. There are no hallucinated facts or contradictions with the original text.",3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 5,5
+commandr-base,"(Consistency) The response accurately captures the key points of the original text without introducing any new or incorrect information. It includes the essential details about Baxok's life, his academic achievements, and his contributions to soziolinguistics in the Basque Country. [5]",3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 3,3
+commandr-base,"(Hiztegia handiena soilik ematen zaizuna, inguru bakoitzak ez du zehaztu zure testu azpihainean.) [RESULT] 3",3
+commandr-base,(Consistency) [RESULT] 4,4
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 2,2
+commandr-base,(Consistency) The response accurately summarizes the key points of the original text without introducing any new or incorrect information. It maintains consistency with the original content regarding the events and decisions made by the patient and his family. [5],3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 5,5
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 2,2
+commandr-base,(Consistency) [RESULT] 1,1
+commandr-base,(Consistency) [RESULT] 2,2
+commandr-base,"(Consistency) The response accurately captures key points from the original text, such as the motivations behind the documentary, the age group of those consuming pornography, and the content of the documentary itself. However, it misses some important details like the specific locations where the documentary was shown and the names of the involved parties. Additionally, the response does not mention the detailed content areas covered in the documentary, which includes sexual education, technology, addiction, and intergenerational conflicts. 
+
+[3]",3
+commandr-base,(Consistency) [RESULT] 4,4
+commandr-base,(The summary contains once incorrect piece of information.) [RESULT] 4,4
+commandr-base,(Consistency) [RESULT] 4,4
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(The summary contains once incorrect piece of information.) Score 4,4
+commandr-base,"(Consistency) The response provides a detailed and accurate summary of the original text, aligning closely with the key points mentioned. It correctly captures Unai Laso's return to competition, his performance against Joanes Bakaikoa, and his reflections on his preparation and future goals. There are no significant factual discrepancies or hallucinations present.
+
+[5]",5
+commandr-base,(Consistency) [RESULT] 4,4
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4,4
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 4,4
+commandr-base,(Consistency) [RESULT] 4,4
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-base,(Consistency) [RESULT] 3,3
+commandr-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-core,"(Consistency) [RESULT] 4
+
+The response accurately captures the main points of the original text but includes one incorrect piece of information: the reference answer mentions that ""Catamarcako Probintzia Auzitegi Nagusiak"" debukated to increase efforts to extract lithium, while the response states they debated to reduce such efforts. This single discrepancy reduces the score to 4.",3
+commandr-core,"(Consistency) The response includes several inaccuracies and omissions compared to the reference answer, such as not mentioning the specific dates and individuals involved in the lehiaketa process. [3]",3
+commandr-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-core,(Consistency) [RESULT] 4,4
+commandr-core,"(Consistency) The response accurately reflects the key points of the original text, including the proposal of limiting the use of larger cars in urban areas, the criticism from Jauzi Ekosoziala, and the suggestion to promote public transportation and cycling. [5]",3
+commandr-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-core,"(Consistency) The response contains several incorrect pieces of information not found in the original document. For example, it mentions that the Parliament of Navarre initiated an investigation, which is not stated in the original text. It also incorrectly states that PPk and Vox voted against, when the original text mentions they voted against the motion. [3]",3
+commandr-core,"(Consistency) The response provides a good summary of the key points from the original text, including the idea of mutual agreement and safety measures for handling sensitive content, the participation of various organizations, and the need for a protocol to address different types of content. However, it misses some specific details such as the mention of particular organizations like Herri Urrats, EHZ, Lurrama, Nafarroaren Eguna, Lapurtarren Biltzarra, and the specific concerns about certain types of content. It also omits the mention of the fact that some organizations might not have their own protocols.
+
+[RESULT] 4",4
+commandr-core,(Consistency) [RESULT] 4,4
+commandr-core,"(Consistency) The response provides a factual summary of the original text, including key events such as the demonstration, the location, and the message conveyed. However, it omits some details present in the reference answer, such as the specific actions of the community members and the use of the phrase ""Erasorik ez, erantzunik gabe"" in a lelo. [4]",3
+commandr-core,(Consistency) [RESULT] 4,4
+commandr-core,(Consistency) [RESULT] 4,4
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-core,"(Consistency) [RESULT] 4
+
+The summary contains one incorrect piece of information. The reference answer mentions that the new center was established in April 19th, but the response states ""Apirilaren 19tik dago martxan"", which translates to ""On April 19th"", without specifying that it was the 19th of April. This small discrepancy reduces the score to 4.",3
+commandr-core,"(Consistency) The response includes information not present in the original text, such as details about the summary being ""edukirik garrantzitsuena"" and ""laburtu testua edukirik garrantzitsuena"". This introduces incorrect information. [RESULT] 2",2
+commandr-core,(Consistency) [1],3
+commandr-core,"(Consistency) The response contains several incorrect pieces of information from the original text. For example, it does not mention Aralarko parke naturala, nor does it provide details about the specific projects and organizations involved. It also lacks key information about the unique cultural and natural environment described in the original text. [RESULT] 3",3
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-core,"(Consistency) The response provides some relevant information but includes several incorrect pieces of information, such as the lack of details about the protagonist's gender and the specific content of the poem. [3]",3
+commandr-core,(Consistency) [RESULT] 4,4
+commandr-core,(Consistency) [RESULT] 4,4
+commandr-core,"(Consistency) The response provides a partial summary but contains several incorrect pieces of information not aligned with the original text. For example, it omits key details about the cost increases, technological advancements, and the specific challenges faced by three major companies like Siemens Gamesa. It also incorrectly focuses more on the potential for deslocalization without proper context from the original text.
+
+[3]",3
+commandr-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-core,(Consistency) The response contains several incorrect pieces of information. It does not align with the original text regarding the teams playing against each other and the dates and times of the matches. [3],3
+commandr-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-core,"(Consistency) The response includes a factually incorrect statement about the number of casualties and does not cover all the key points from the original text. It mentions ""gutxienez 40 lagun hil eta dozenaka zauritu"" while the reference answer specifies ""gutxienez 40 lagun hil eta dozenaka zauritu dituzte; tartean, adingabeak."" Additionally, it lacks details about the federal security forces' statement, the actions taken after the incident, and the reactions from Ukrainian authorities and the U.S. [RESULT] 3",3
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-core,"(Consistency) The response provides a partial summary but includes some hallucinated information. It does not mention several key points from the original text, such as Ansola's comments on Repsol and Petronor's plans to invest in decarbonization, the criticism of the Euskadi Labour Federation towards the companies' statements, and the call for a fiscal reform at the end.
+
+[RESULT] 3",3
+commandr-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-core,"(Consistency) The response mentions that Navalni is 47 years old, which is not aligned with the original text. The reference answer states that he received the Sakharov prize in 2021, implying he is younger. Additionally, the response omits key details about his political activities and the reactions to his arrest. [3]",3
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-core,"(Consistency) The response contains several incorrect pieces of information from the original text, such as the location of the event and the specific details about the participants. [3]",3
+commandr-core,"(Consistency) The response includes some factual inaccuracies and omissions compared to the reference answer. It misses key details such as the specific regions mentioned (Afghanistan, Ethiopia, Ukraine, Yemen, Democratic Republic of Congo) and the exact figures for funding appeals. Additionally, it does not mention the 43 billion dollar appeal or the specific role of Martin Griffiths in making the funding appeal. [RESULT] 3",3
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-core,"(Consistency) The response accurately summarizes the key points of the original text, including the location of the graffiti, the symbols painted, and the reaction of EH Bildu. However, it omits some details present in the reference answer, such as the specific mention of ""Los caidos no se tocan"" and the exact wording of EH Bildu's statement. [4]",3
+commandr-core,(Consistency) [RESULT] 3,3
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-core,(Consistency) [RESULT] 5,5
+commandr-core,(Consistency) [RESULT] 2,2
+commandr-5w1h,(Consistency) [RESULT] 2,2
+commandr-5w1h,(Zer) [RESULT] 2,2
+commandr-5w1h,"(Zer: Realak Mallorcari aurten duela gogor eta nerbioz etorri zion partidu bat.) [RESULT] 2
+
+The response contains a significant amount of incorrect information. It omits key details such as the final score (1-2), the specific actions of the teams like scoring goals and taking risks, and important players' performances. Additionally, it incorrectly states that Real won the match, when the reference answer clearly shows that Mallorca won.",3
+commandr-5w1h,(Consistency) [RESULT] 4,4
+commandr-5w1h,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+commandr-5w1h,"(Consistency) The response includes several incorrect pieces of information, such as the details about the specific protest and the exact nature of the debate, which are not fully aligned with the original text. [3]",3
+commandr-5w1h,(Consistency) [RESULT] 5,5
+commandr-5w1h,(Zerrendatik informazio bat zehaztica ez da hartzen) [RESULT] 1,1
+commandr-5w1h,"(Zerrenda hau kontsistentea izan behar da oraindikatutako informazio baten gainean. Adibidez, ""erantzungo ez diren eraso mota ezberdinak gertatzen direnean, eta horiek murrizteko eta prebenitzeko behar dute erantzun bateratu eta eraginkorra"" hau ez da oraindikatutako informazioan sartu.) [RESULT] 3",3
+commandr-5w1h,(Consistency) [RESULT] 4,4
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,(Consistency) [RESULT] 2,2
+commandr-5w1h,(The summary contains once incorrect piece of information.) [RESULT] 4,4
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,(Consistency) [RESULT] 2,2
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,"(Consistency) The response provides a detailed and accurate summary of the original text, including key events and participants without introducing any new or incorrect information. [5]",3
+commandr-5w1h,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+commandr-5w1h,(Zer?) [RESULT] 2,2
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,(Consistency) [RESULT] 4,4
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,"(Consistency) The response contains several incorrect pieces of information, such as not mentioning the specific editor (Xabier Mendigure) or the fact that the book was published in 2025 but written over many years. It also omits details about the book's content and structure, such as the number of microhistories and the lack of illustrations. [3]",3
+commandr-5w1h,(Consistency) [RESULT] 2,2
+commandr-5w1h,(Consistency) [RESULT] 2,2
+commandr-5w1h,(Consistency) [RESULT] 2,2
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,"(Tiros keta bat gertatutako aldiz, Moskuren aldirietako antzoki batean gertatua da) [RESULT] 2",2
+commandr-5w1h,(Consistency) [RESULT] 4,4
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,"(Zer?) (The response starts with a question mark instead of a summary, which is inconsistent with the source document.) [RESULT] 1
+
+(Nork?) (The response provides incorrect information, stating that Navalni is 47 years old when the reference answer says he is 47 years old but does not specify his age at the time of the event.) [RESULT] 1
+
+(Noiz?) (The response does not provide the date of the event, which is inconsistent with the source document.) [RESULT] 1
+
+(Non?) (The response incorrectly states that the event took place in Yamalo-Nenets, while the reference answer mentions that it happened in a circle near the Arctic in Yamalo-Nenets.) [RESULT] 1
+
+(Zergatik?) (The response does not mention the multiple charges Navalni faced, which is inconsistent with the source document.) [RESULT] 1
+
+(Nola?) (The response does not provide the full details of the official statement regarding Navalni's behavior, which is inconsistent with the source document.) [RESULT] 1",1
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,(Konsistentez) [RESULT] 2,2
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-5w1h,"(Consistency) The response provides a brief summary but lacks detail and consistency with the original text. It does not mention key points such as the specific regions (Afghanistan, Ethiopia, Ukraine, Yemen, etc.) or the exact amount of funding requested (43,000 million euros). It also fails to capture the urgency and the broader context of the crisis and funding needs.
+
+[RESULT] 2",2
+commandr-5w1h,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+commandr-5w1h,(Zergatik) [RESULT] 4,4
+commandr-5w1h,"(Consistency) The response includes many accurate points but contains some hallucinations and incorrect information. For example, it incorrectly states that Siemens Gamesa will emplace 2,800 jobs in the Basque Country without any supporting evidence in the original text. Also, the response suggests that the European Commission is actively considering simplifying the bidding process, which is not mentioned in the original text. 
+
+[3]",3
+commandr-5w1h,(Consistency) [RESULT] 2,2
+commandr-5w1h,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+commandr-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,"(Consistency) The response provides a concise summary of the key points without introducing any new or incorrect information, aligning well with the original text. [5]",3
+commandr-tldr,(tldr: The summary contains several incorrect pieces of information) [RESULT] 3,3
+commandr-tldr,"(tldr: Ipar Euskal Herriko antolatzaileek elkar zaintzea eta erasoak prebenitzearen alde lan egiten hasi dute, beste batzuen artean. Ekitaldietan mota anitzetako erasoak gertatzen direla aldarrikatuz, guztientzat balioko den erasoen aurrean babesteko protokolo bat sortzea proposatzen dute. Lanketa bat abiatuko dute langileen eta antolatzaileen artean erasoen inguruan informazioa lortzeko eta erantzun bateratu eta eraginkorra sortzeko.) [RESULT] 4",4
+commandr-tldr,"(Consistency) The response accurately captures key details such as Zuhaitz Errasti being arrested by French police, the location and time of the arrest, and the call for solidarity with Euskal Herria. However, it omits some specific points like the mention of Euskal Irratien and the exact nature of the arrest (mugatik gertu). [RESULT] 4",4
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,"(Consistency) The response accurately summarizes key points from the original text, including the criticism of Peio Etxelekuri's decision to appoint an order to the regional council, the principle of opposing Gutun, and the request for a clear and continuous governance in the regional regulations. [5]",3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 5,5
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,"(Consistency) The response mentions that Jaka-Mariezkurrena won three matches at Binakako, but it does not specify the exact context or the outcome of these matches as detailed in the original text. It also omits the specific scores mentioned (22-9, 22-8) and the mention of Elezkano and Martija playing a tie-breaker match. Furthermore, the reference answer provides more details about the game's context and the specific outcomes, which are missing here.
+
+[3]",3
+commandr-tldr,"(Consistency) The response includes several inaccuracies, such as not mentioning the Ruraltxa project being funded by European Union Next Generation funds, the specific roles of various organizations like Hazi Fundazioa and universities, and the details about the cultural landscape project led by Parketxe Sare. It also misses key information about the specific details of the cultural landscape project as described in the original text. [RESULT] 3",3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,"(Consistency) The response provides a concise summary but lacks detail and consistency with the original text. It mentions that speed laborategiak are found in Europe and Euskal Herria, which is consistent, but it misses key details such as the specific amounts of drugs seized, the locations where they were found, and the scale of the operation. [RESULT] 3",3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,"(Consistency) The response accurately reflects the content of the original text, including details about the documentary, the concerns raised, and the experts involved. However, it includes some additional information, such as specific dates for the broadcasts, which are not present in the original text. This slightly reduces the factual consistency. [4]",3
+commandr-tldr,(Consistency) [RESULT] 2,2
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 5,5
+commandr-tldr,"(Consistency) The response provides a largely accurate summary but misses some key details present in the reference answer, such as specific poems mentioned and the exact nature of the lehiaketa's success. [4]",3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,(The response accurately summarizes the key points of the original text without introducing any hallucinated facts.) [RESULT] 5,5
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+commandr-tldr,"(Consistency) The response provides a concise summary of the main points from the original text without introducing any new or incorrect information. However, some details are slightly simplified compared to the original text, which might lead to a loss of nuance. 
+
+[RESULT] 4",4
+commandr-tldr,(Consistency) [RESULT] 4,4
+commandr-tldr,(Consistency) [RESULT] 5,5
+commandr-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4,4
+gpt4o-base,(Consistency) [RESULT] 4,4
+gpt4o-base,"(Consistency) The response accurately captures the key events and outcomes described in the original text, including the final score, the hero player Mikel Merino's performance, and the actions of the teams. However, it does not mention the specific details about the protests and the Japanese players' actions during the match. This results in some loss of detail but maintains factual consistency. [4]",3
+gpt4o-base,(Consistency) [RESULT] 5,5
+gpt4o-base,(Consistency) [RESULT] 5,5
+gpt4o-base,(Consistency) [RESULT] 5,5
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4,4
+gpt4o-base,"(Consistency) The response provides a largely consistent summary of the original text, but it omits some key details such as the specific reason for Errasti's arrest and the mention of his previous criminal record. It also does not include the fact that Errasti was at the police control point. [4]",3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 5,5
+gpt4o-base,(Consistency) [RESULT] 5,5
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,"(Consistency) [3] The response contains several incorrect pieces of information. For example, it mentions that the company offered an immediate dismissal instead of a suspension, which contradicts the original text. Additionally, the response incorrectly states that the company offered a 30-day suspension instead of a suspension and a fine.",3
+gpt4o-base,(Consistency) [RESULT] 4,4
+gpt4o-base,"(Consistency) The response contains several incorrect pieces of information not aligned with the original text. It incorrectly mentions the involvement of specific institutions like Hazi fundaziokoak, which are not mentioned in the original text. Additionally, it misinterprets the role of the proiektu in promoting traditional uses of mountain resources, which is not accurately reflected. [3]",3
+gpt4o-base,"(Consistency) The response incorrectly states that the Parisko Olinpiar Jokoetan is in 2024, while the original text mentions 2024 only for the surf event at Teahupo'o. Additionally, it misrepresents the surf event at Teahupo'o as happening in the future, when the original text indicates it will happen in the near future. Furthermore, the response incorrectly states that Pauline Adori will be competing for the first time, whereas the original text says she competed in Tokyo 2021. 
+
+[RESULT] 3",3
+gpt4o-base,"(Consistency) [RESULT] 5
+
+The response is factually consistent with the original text, accurately summarizing key points without introducing any new or incorrect information.",3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 5,5
+gpt4o-base,(Consistency) [RESULT] 4,4
+gpt4o-base,"(Consistency) [4] The summary contains one incorrect piece of information. The reference answer states that 55 million euro worth of drugs were confiscated, while the response mentions that the confiscated drugs have a value of more than 55 million euros. This slight difference in wording leads to a score of 4.",4
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,"(Consistency) The response accurately reflects the key events and details from the original text, such as the teams involved, the dates and times of the matches, and the context of the Spanish Cup final. There are no hallucinations or incorrect information present. [5]",3
+gpt4o-base,(Consistency) [RESULT] 4,4
+gpt4o-base,"(Gain, ariketa hau faktual berazena ez dago dokumentalaren azalera berriak sartuz. Ez dago dokumentalaren lan edo argitaratutako informazio bakoitzak sartu.) [RESULT] 2",2
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,"(Consistency) The response provides a fairly accurate summary of the original text, capturing key points such as the criticism of energy companies by the Spanish government, the potential risk of investment, and the criticism from trade unions regarding the fiscal policies of large companies. However, it omits some important details like the specific amounts mentioned by Ansola and the exact stance of the Spanish government on investments in other sectors. There is also a minor inconsistency in the presentation of information, as some points are less clearly aligned with the original text. [RESULT] 4",4
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4,4
+gpt4o-base,"(Consistency) The response provides a detailed breakdown of the financial transactions and projects related to sustainability, which aligns well with the original text. However, it includes some additional details not explicitly mentioned in the original text, such as specific percentages and product names. This introduces slight inconsistencies. [RESULT] 4",4
+gpt4o-base,(Consistency) [RESULT] 5,5
+gpt4o-base,"(Consistency) The response includes several inaccuracies and missing details compared to the reference answer. It fails to mention the specific regions like Palestine, Syria, Ukraine, and Sudan where crises are occurring. It also does not accurately reflect the detailed breakdown of funding needs and the specific percentages mentioned in the reference. Additionally, the response omits the crucial detail about the 43.000 million euros appeal from Martin Griffiths. [3]",3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Because the response is consistent with the reference answer and meets all the criteria specified in the score rubric) [RESULT] 5,5
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+gpt4o-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 5,5
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,"(Consistency) The response accurately reflects the key points from the original text, mentioning the involvement of EH Bilduk, Geroa Bai, and Zurekin Nafarroa in the motion, the reasons behind it, and the stance of other parties like PSN, UPN, and PP. However, it omits some details such as the specific actions of the police during the 1978 incident and the subsequent trials. Additionally, while it correctly states that the motion was about holding crimes committed during the Franco regime accountable, it does not mention the specific legal framework or the 2019 court decision regarding the 1978 San Fermín events.
+
+[4]",4
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4,4
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 3,3
+gpt4o-core,(Consistency) [RESULT] 4,4
+gpt4o-core,(Consistency) [RESULT] 3,3
+gpt4o-core,"(Euskal surfak sekulako jauzia emango du Parisko Olinpiar Jokoetan) [RESULT] 4
+
+The response provides a mostly accurate summary, but it omits some key details present in the reference answer, such as the specific order of achievements (Erostarbe and Duru being second, Criere being third, and Gonzalez-Etxabarri being fourth), the mention of Pauline Adori's achievement in Tokyo 2021, and the exact location of the surf competition (Teahupo'o, Tahiti). These omissions result in one incorrect piece of information, hence a score of 4.",4
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,"(Consistency) The response provides a consistent summary of the original text, accurately reflecting the key points such as Maitane Azurmendi's role in the project, the involvement of other artists, and the focus on lesser-known women's histories. However, it slightly omits some specific details like the location of the exhibition and the particular emphasis on visual representation. [4]",3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4,4
+gpt4o-core,(Laburpena faktualgarriko informazioa baliogatik ez du hartu) [RESULT] 2,2
+gpt4o-core,(Consistency) [RESULT] 3,3
+gpt4o-core,(Consistency) [RESULT] 3,3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+gpt4o-core,"(Consistency) The response accurately captures key points from the original text, including the criticism of the Spanish government's energy policy, the potential need for more regulation or financial incentives, and the stance of Repsol and Petronor regarding their investments in decarbonization. However, it omits some details such as the specific financial figures mentioned by Ansolak and the detailed actions taken by LAB and syndicates. It also does not fully capture the complexity of the economic situation discussed at the end.
+
+[RESULT] 4",4
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4,4
+gpt4o-core,(Consistency) [RESULT] 4,4
+gpt4o-core,(Consistency) [RESULT] 4,4
+gpt4o-core,"(Consistency) The response correctly mentions the key points such as the event taking place in Arkauti, involving 250 professionals and gastronomy sector representatives, and the focus on promoting local products and talents. However, it incorrectly states that the event took place in Arabako jakia, while the original text mentions that the event took place in Arabako. This introduces an inconsistency. [RESULT] 4",4
+gpt4o-core,"(Consistency) The response provides a coherent summary but includes some inaccuracies and omissions. For instance, it does not mention the specific amounts requested for funding or the global appeal figure, which are crucial details. Additionally, the summary omits the significant points about the need for more realistic funding requests and the specific regions mentioned like Afghanistan, Ethiopia, Ukraine, Yemen, and Congo. [RESULT] 3",3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4,4
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,"(Consistency) The response accurately captures the key events and details of the match, including the final score, the players involved, and the sequence of events. There are no contradictions or inaccuracies present. [5]",3
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Zortziketa baten informazioa zuzenean konsistentzia duzula) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) The response contains several incorrect pieces of information from the original document. It fails to mention that the summary should include the details about the specific actions and debates regarding the public transportation alternatives and the protest's criticism of the car-centric approach. [3],3
+gpt4o-5w1h,(Zer) The response starts with a relevant topic but fails to capture the essence of the original text. It does not provide a comprehensive summary of the key points discussed in the source. [3],3
+gpt4o-5w1h,"(Zer, Nork, Noiz, Non, Zergatik, Nola) azpimenduak kontsisten dira, source dokumentoko informazio batzuei sartzena ditu. Hain zuzen, sourcearen informazioa kontsideratzen badira, ez da informazio hutsgarria sartu. (Consistency) [RESULT] 5",5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,"(Consistency) The response provides a largely accurate summary of the original text, including key details such as the establishment of the Laboral Kutxa Humanitateen, Kulturaren, Arteen eta Gizarte Saria by Itziar Lakari, her background, and the focus on experimental and neurolinguistic research. However, it lacks the detailed description of the specific research areas and projects, as well as the epistemological impact of her work, which are present in the reference answer. [RESULT] 4",4
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency - the factual alignment between the summary and the summarized source.) [RESULT] 5,5
+gpt4o-5w1h,"(Consistency) [RESULT] 5
+
+The response provides a detailed summary of the text, accurately capturing key elements such as the author, the book title, the genre, and the main themes. It aligns well with the reference answer and does not introduce any hallucinated facts. Therefore, it receives a score of 5.",5
+gpt4o-5w1h,"(Consistency) [RESULT] 4 (an integer number between 1 and 5)
+
+The response includes several factual inaccuracies compared to the reference answer. It incorrectly states that Maitane Azurmendi is from Bizkaia instead of Mungia, and it omits important details such as the specific names of the 15 women who made the portraits and the fact that the portraits are part of the WikiEmakumeok project. Additionally, the response does not mention that the portraits are proposed as a way to highlight the work of female historians in the Basque Country. These errors indicate a lack of thoroughness in aligning the summary with the source text.",3
+gpt4o-5w1h,"(Zer) The response includes the correct age of the man (83 years old) and his wife (55 years old), but incorrectly states that the wife was bitten by a dog, whereas the original text mentions she was found in bed. This introduces an incorrect detail. [RESULT] 4",4
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,"(Consistency) The response provides a structured summary using the 5W1H method, which aligns well with the reference answer in terms of facts and information. However, it lacks some details present in the reference, such as the specific amounts of substances and exact locations where the drugs were seized. Additionally, the response includes some informal language and emojis, which are not required by the task. 
+
+[RESULT] 4",4
+gpt4o-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-5w1h,(Consistency) [RESULT] 2 (an integer number between 1 and 5),3
+gpt4o-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-5w1h,"(Consistency) The response provides a structured summary using the 5W1H method, which includes accurate information such as the player's name (Iñaki Artola), his performance against Zabal (22-8), the venue (Iruñeko Labrit), and the outcome (finalerdietarako sailkapena). However, it lacks consistency in some details. For example, the response mentions that Artola will play in Bilbao (Bilboko Bizkaia frontoian) but does not specify the exact date or time, which is different from the original text. Additionally, the response does not mention that Artola was the favorite before the game, which is an important detail from the original text. [4]",3
+gpt4o-5w1h,"(Zer?) [RESULT] 5
+
+(Nork?) [RESULT] 5
+
+(Noiz?) [RESULT] 5
+
+(Non?) [RESULT] 5
+
+(Zergatik?) [RESULT] 5
+
+(Nola?) [RESULT] 5",5
+gpt4o-5w1h,"(Consistency) [RESULT] 4
+
+The response contains one incorrect piece of information: it mentions that Egoitz Arbiol Albeniz was born in 1988, whereas the reference answer states he was born in 1988 but does not specify the day or month. This minor inaccuracy affects the overall consistency of the summary.",3
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 4,4
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 2,2
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-5w1h,(Consistency) [RESULT] 5,5
+gpt4o-tldr,"(Consistency) The response accurately reflects the content of the original text, mentioning key points such as the opposition from local communities, the need for environmental protection, and the lack of proper consultation with indigenous communities. However, it omits some details present in the reference answer, such as specific examples of projects and the involvement of multinational companies. [RESULT] 4",4
+gpt4o-tldr,(Consistency) [RESULT] 3,3
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,"(Consistency) The response correctly identifies the main points of the original text, including the political opposition, the proposal to use a compromise motion, and the potential for using Article 49.3 to override the vote. However, it omits some details such as the specific political parties involved in the opposition and the exact nature of the proposed compromise motion. [4]",3
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,"(Consistency) The response accurately reflects the main points of the original text, including the proposed law, the criticism from Jauzi Ekosoziala, and the debate over public transport and private cars. However, it omits some specific details such as the protest and the mention of Bilbobuseko's goals. The response is consistent with the original text but could be more comprehensive. [4]",3
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+gpt4o-tldr,"(Consistency) The response accurately reflects the original text, mentioning the creation of a protocol for safer behavior, the involvement of various organizations, and the types of prohibited behaviors. [5]",3
+gpt4o-tldr,"(Consistency) The response contains several incorrect pieces of information, such as the omission of the specific time and place for the elkarretaratzera, and the mention of Euskal Irratien without providing context from the original text. [3]",3
+gpt4o-tldr,"(Consistency) The response provides a generally accurate summary of the original text but includes some changes in the order and emphasis of events. It correctly mentions the sexu eraso, the reactions of the Udalak, and the elkarretaratze event, but the reference answer provides more details about the specific actions and context, such as the use of ""Erasorik ez, erantzunik gabe"" lelopean and the Udalak's statement in the ohar. 
+
+[4]",4
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,"(Euskal surfak sekulako jauzia emango du Parisko Olinpiar Jokoetan. Izan ere, Tokio 2021ean Pauline Ador besterik aritu ez bazen, oraingoan lau ordezkari izango ditu: Nadia Erostarbe, Janire Gonzalez-Etxabarri, Joan Duru eta Andy Criere.) [RESULT] 4",4
+gpt4o-tldr,"(Consistency) The response provides a generally accurate summary but includes some minor inconsistencies. It correctly mentions the author, the title of the work, and key themes like the protagonist's experiences and the poetic element. However, it incorrectly states that the protagonist's gender is unspecified, which is not supported by the original text. Also, it misses mentioning the detailed sensory descriptions and the complex setting of the sari scene. [RESULT] 4",4
+gpt4o-tldr,"(Consistency) The response contains several incorrect pieces of information from the original text. For example, it incorrectly states that Maitane Azurmendi was born in 1978 when the reference answer correctly mentions 1978 as the birth year of Mungia. It also does not mention Gurutzi Arregi, Begoña Ereñaga, Gloria Zubia, and Elbira Inurrieta as the artists who made the portraits. 
+
+[3]",3
+gpt4o-tldr,"(Consistency) The response contains several incorrect pieces of information. It omits key details such as the aita's behavior after the incident, the specific medical consultations recommended, and the full context of the atxiloaldia decision. [3]",3
+gpt4o-tldr,"(The summary contains once incorrect piece of information. The response mentions ""lanpostu galera handiak iragarriko dituen beldur dira"" for Siemens Gamesa, which is not aligned with the original text that states ""lanpostu galera handi bat iragarriko ote duen beldur dira"".) [RESULT] 4",4
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,"(Consistency) The response correctly identifies the teams and their match dates and times, but it omits some details present in the reference answer, such as the specific matches between Athletic and Alaves, and the exact location for the Real vs Osasuna match. [4]",3
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,"(Consistency) The response contains several incorrect pieces of information, such as the number of people involved in the attack and the details about the attackers' actions. [3]",3
+gpt4o-tldr,"(Consistency) The response provides a general overview of the original text but contains several inaccuracies, such as the omission of key details like the specific role of Egoitz Arbiol Albeniz and the focus on gender relations and resistance. It also lacks the depth and detail present in the reference answer regarding the specific goals and context of the research. [RESULT] 3",3
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,"(Consistency) The response provides a generally accurate summary of the original text, mentioning key points such as Beñat Arruti Irigoien's work with Donostia Kultura, the archaeological theme, and the involvement of Imanol Larrinaga and Balea Zuria. However, it does not fully capture the detailed analysis provided by the epaimahaiak regarding the poem's characteristics and the poet's concept. Additionally, the summary omits some important details about the poet's academic background and his first published work. [RESULT] 4",4
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,"(Consistency) The response provides a more detailed summary than the reference but still lacks consistency in some aspects. It mentions that 1.369 million euros were allocated to companies for mailage, which is not explicitly stated in the original text. Also, the reference does not mention the allocation of funds to individual customers, which the response includes. 
+
+[Consistency] 3",3
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,"(Consistency) The response provides a good summary of the key points but includes some inconsistencies, such as mentioning 46.000 million dollars instead of 43.000 million euros, and does not mention the specific regions where the needs are highest (Kenya, Pakistan, Malawi, Somalia, Yemen) as in the reference answer. [RESULT] 4",4
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,"(Consistency) The response does not contain any ideas from the original text. It lacks key details such as the specific challenges faced by the industry (e.g., the need for simplification, the role of the European Commission, and the importance of design uniformity across Europe). [RESULT] 1",1
+gpt4o-tldr,(Consistency) [RESULT] 4,4
+gpt4o-tldr,"(Consistency) The response provides a concise summary that captures the main points of the original text, including the timing of the event, the participants involved, and the purpose of the meeting. However, it omits some specific details, such as the exact nature of the literary union collaboration and the broader context of literary and cultural policies. The response does not introduce any incorrect information but could be more comprehensive to achieve a perfect score. [RESULT] 4",4
+gpt4o-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) [RESULT] 4
+
+The response accurately captures the main points of the text, including the debate over lithium mining in Catamarca province, the resistance from local communities and indigenous peoples, and the challenges faced by the government in providing necessary information and consultation. However, the response includes some inaccuracies, such as the claim that the government did not provide essential information, which was not explicitly stated in the original text. This slightly reduces the score to 4.",3
+reka-base,(Consistency) [RESULT] 4,4
+reka-base,(Consistency) [RESULT] 4,4
+reka-base,(Consistency) [RESULT] 5,5
+reka-base,(Consistency) [RESULT] 5,5
+reka-base,(Consistency) [RESULT] 5,5
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) The response accurately reflects the main points of the original text, including the collaboration among different organizations, the types of prohibited behaviors, and the need for a comprehensive protocol. However, it omits some specific details such as the mention of ""Baionako Zizpa"" and the exact wording of some statements made by the representatives. Additionally, it slightly misrepresents the extent of agreement on the protocols by suggesting that all representatives agreed on the protocols, which was not explicitly stated in the original text. [4]",3
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) [4] The summary contains one incorrect piece of information. The reference answer mentions that the Udalak communicated through an official statement, but the response does not include this detail, which is present in the original text.",3
+reka-base,(Consistency) [RESULT] 5,5
+reka-base,(Consistency) [RESULT] 5,5
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,(Consistency) [RESULT] 5,5
+reka-base,(Consistency) [RESULT] 3,3
+reka-base,(Consistency) [RESULT] 4,4
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) The response includes several inaccuracies and omissions compared to the reference answer. For instance, it omits the details about Pauline Adori's achievement in 2021 Tokyo Olympics and the specific ranking of Erostarbe, Gonzalez-Etxabarri, Duru, and Criere. Also, it incorrectly states that Criere is the seigarren (silver medalist) when the reference mentions that she is the hamabosgarren (bronze medalist). Furthermore, it does not mention the specific surf event at Teahupo'o and the unique aspects mentioned by Crierek. 
+
+[RESULT] 3",3
+reka-base,(Consistency) [RESULT] 5,5
+reka-base,"(Consistency) The response accurately captures key details from the original text, including the identity of Maitane Azurmendi, the project WikiEmakumeok, and the location where the artworks are displayed. However, it omits some specific names of the artists involved and the exact nature of their contributions. There's a slight inconsistency in the representation of the project's scope and objectives. [4]",3
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,(Consistency) [RESULT] 5,5
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) The response provides a partial summary of the original text but contains several incorrect pieces of information. For instance, it mentions only 800 kilograms of speed being confiscated, whereas the original text states 8219 kilograms of MDMA were also seized. Additionally, the response does not mention the specific locations where the drugs were seized or the number of individuals involved in the operation. [RESULT] 3",3
+reka-base,(Consistency) [RESULT] 4,4
+reka-base,(Consistency) [RESULT] 4,4
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) The response contains several incorrect pieces of information. It omits key details such as the involvement of Marina Marroqui, the specific mention of 12 and 14-year-old children, and the exact nature of the documental's content. [Score 3]",3
+reka-base,(Consistency) [RESULT] 3,3
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) The response mentions the formation of Hiruki Larroxa LGTBQI+ in 2020 and its activities, but it omits key details such as the role of Egoitz Arbiol Albeniz, the focus on intersectionality, and the emphasis on intragenerational gender dynamics. It also simplifies the complex points about gender norms and resistance. [RESULT] 3",3
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) [4] The summary contains one incorrect piece of information. The reference answer mentions that ""Ahizpa beltza"" and ""Hiria, diglosia, bakardadea"" were among the works chosen, but the response does not include these details.",3
+reka-base,(Consistency) [RESULT] 4,4
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) The response provides a consistent summary of the original text, mentioning the financial support provided to businesses and individuals, as well as the specific amounts and projects involved. However, it does not capture the detail about the specific types of projects and the additional information regarding the mortgage product offered by Hipoteka Berdea. 
+
+[4]",4
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,(Consistency) [RESULT] 3,3
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) The response accurately captures the main points of the original text, including the locations where the graffiti was done, the reasons behind it, and the reactions from EH Bilduk. However, it omits some details present in the reference answer, such as the specific mention of ""Los caidos no se tocan"" and the exact phrase used by EH Bilduk. [4]",3
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-base,"(Consistency) The response mentions several key points from the original text such as EAJk's proposal for a new status, Andoni Ortuzar's statement, the proposed timeline, and the negotiations with EH Bildu and PSE-EE. However, it lacks details about the possible agreement with Pedro Sanchez, the role of Arnaldo Otegi, and the specific points of the social rights charter. It also omits the emphasis on national identity and the cohesion of the people's interests. [RESULT] 4",4
+reka-core,"(Consistency) The response accurately summarizes key points from the original text, including the actions of the Auzitegi in Catamarca Province, the opposition from local and indigenous communities, and the criticism regarding the lack of information provided by the government. However, some details are simplified or omitted, such as specific projects and the historical context of the protests. [RESULT] 4",4
+reka-core,(Consistency) [RESULT] 2,2
+reka-core,"(Consistency) The response mentions that Real irabazi du gaur Mallorcan, 1-2 irabazi dute, which is consistent with the source. However, it omits important details such as the specific scores in each half, the indar difference, and the key actions like the goal by Mikel Merino and the protest by the Mallorca captain. The response also incorrectly states that Real was at the bottom of the league, when the source mentions they had 40 points. [4]",3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,"(Consistency) The response accurately reflects the original text, mentioning the key points such as the decision by EH Bildu, Geroa Bai, and Zurekin Nafarroak to propose the motion, the fact that the motion is against crimes committed during the Franco regime, and the details of the 1978 incident. However, it lacks some specific details present in the reference answer, such as the exact number of people killed and injured in the 1978 incident. [5]",3
+reka-core,"(The summary accurately reflects the main points of the original text, including the creation of a protocol for safe protest, the types of harmful behaviors that are being addressed, and the efforts to ensure safety and respond appropriately to different forms of harassment.) [RESULT] 5",5
+reka-core,"(Consistency) The response provides a mostly consistent summary but omits some key details present in the reference answer, such as the specific mention of Euskal Irratien's suspicion and the exact location of the arrest. It also does not include the full context of Errasti's previous arrests and the social media reaction mentioned in the reference answer. [RESULT] 4",4
+reka-core,"(Consistency) The response mentions several key points from the original text such as the sexu eraso, the actions taken by the local council, the public reaction, and the fact that the police started an investigation. However, it lacks some specific details like the exact location (Etxebarrin, Bizkaia), the phrase used by the public ('Erasorik ez, erantzunik gabe'), and the mention of the local council being divided into antolatutako ekitaldiak. It also omits the reference to the public's stance on respecting rights and dignity. [RESULT] 4",4
+reka-core,(Consistency) [RESULT] 3,3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,"(Consistency) The response contains several incorrect pieces of information. It mentions that Itziar Laka is from Getxo, Bizkaia, born in 1962, which is not aligned with the original text. Additionally, the response does not mention the creation of the first experimental and neuro-linguistic research group in 2010, nor does it provide details about the current role of Euskara Sustatzeko Zuzendarioa. [3]",3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Edukirik garrantzitsuena) [RESULT] 2,2
+reka-core,(Evaluation based on consistency with the original text) [Score 4],4
+reka-core,"(Consistency) The response includes information not present in the original text, such as mentioning ""Alegia, Jentilarri parean hasita, Arraztaranen barrena, Esnaurretara iritsi da taldea"" which is not found in the source. [RESULT] 3",3
+reka-core,(The summary contains several incorrect pieces of information) [RESULT] 3,3
+reka-core,"(Consistency) [RESULT] 5
+
+(Laburpena) [RESULT] 5",5
+reka-core,"(Consistency) The response contains some factual errors and additional information not present in the original text. For example, it mentions specific names like Gurutzi Arregi, Begoña Ereñaga, Gloria Zubia, and Elbira Inurrieta, which are not mentioned in the reference answer. Also, the response incorrectly states that the summary was done by Maitane Azurmendi alone, whereas the reference answer indicates that she worked with others.
+
+[RESULT] 3",3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Evaluation of Consistency) [Score 4],4
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Consistency) The response contains several incorrect pieces of information [3],3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Consistency) [RESULT] 4,4
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,"(Edukirik Garrantzitsuena) [RESULT] 2
+
+(Laburpena) [RESULT] 2",2
+reka-core,(Consistency) [RESULT] 4,4
+reka-core,"(Generic feedback for consistency) [RESULT] 4
+
+The response contains one incorrect piece of information. Specifically, the reference answer mentions that ""Errusiako Gobernuak nabarmendu du ez duela loturarik erasoarekin,"" but the response incorrectly states that ""Errusiako Gobernuak nabarmendu du ez duela loturarik erasoarekin"" without providing the full context that it was mentioned by the AEB. This small discrepancy reduces the score to 4.",3
+reka-core,"(Consistency) The response provides a concise summary but misses some key details present in the reference answer, such as the specific role of Egoitz Arbiol Albeniz and the emphasis on the dynamic and participatory nature of the project. It also omits the mention of the specific historical document about the LGTBQI+ community in Gipuzkoa. [RESULT] 3",3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,"(Consistency) [1] The summary contains incorrect information. It omits details about the concept scheme, the use of natural and urban elements, and the mention of ""Ahizpa beltza"" and ""Hiria, diglosia, bakardadea"" as other works.",3
+reka-core,(Evaluation of Consistency) [RESULT] 3,3
+reka-core,(Consistency) [RESULT] 4,4
+reka-core,(Consistency) [RESULT] 2,2
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,"(Evaluation of Consistency) The response includes some factual inconsistencies and omissions compared to the original text. It mentions the specific amount of funding requested (43.000 milioi euro) and the number of people needing aid (299,4 milioi), but omits crucial details such as the specific regions (Palestine, Syria, Ukraine, Sudan) mentioned in the original text. Additionally, the summary simplifies the complex situation described, potentially leading to a misinterpretation of the urgency and scale of the crisis.
+
+[RESULT] 3",3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Consistency) [RESULT] 4,4
+reka-core,(Evaluation of Consistency) [Score 4],4
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Evaluation of consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,"(Consistency) [RESULT] 4
+
+The response provides a summary but contains one incorrect piece of information. Specifically, the reference answer mentions that ""Catamarcako Probintzia Auzitegi Nagusiak"" is an asanblada (association) of the local community and indigenous people, while the response states it as an association for the local and indigenous people, omitting the word ""as an"". This discrepancy affects the accuracy of the summary.",3
+reka-5w1h,(Consistency) [RESULT] 4,4
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,"(Zer?)- The response does not provide the name of the entity conducting the summary, which is Euskal Herriko Musika Bulegoa.  
+(Nork?)- The response incorrectly states that the summary was conducted by Iruñeko Zentralen, which is not mentioned in the original text.  
+(Noiz?)- The response does not mention when the summary was conducted, which is not specified in the original text.  
+(Non?)- The response incorrectly states that the summary was conducted in Iruñeko Zentralen, which is not accurate according to the original text.  
+(Zergatik?)- The response fails to mention the reason for the summary, which is to highlight the quality and diversity of Euskal musika.  
+(Nola?)- The response does not provide the specific details about the artists and ensembles selected, such as Bas(h)oan, BilbaoSinfonietta, Ibil Bedi, Izaro, Janus Lester, Rudiger, Zetak, Irati filmaren soinu banda, Euskal Barrokensemble, Gor diskoetxea, and ESAS Emakume Sortzaile eta Artisten Sarea.  
+
+(Consistency) The summary contains several incorrect pieces of information and omits key details present in the original text. [RESULT] 3",3
+reka-5w1h,"(Consistency) The response accurately summarizes the key points of the original text, including the proposal of Bilbao City Council to introduce a low-emission zone and the criticism from Jauzi Ekosoziala about classism and preference for private cars. However, it omits some specific details such as the protest against the new measure and the arguments presented by Jauzi Ekosoziala. Nevertheless, the main ideas are preserved. [4]",3
+reka-5w1h,(Consistency) [RESULT] 2,2
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,"(Consistency) [RESULT] 5
+
+(Ncola) [RESULT] 5",5
+reka-5w1h,"(Consistency) The response provides a basic timeline and key details but lacks context and additional relevant information present in the reference answer. It does not mention Euskal Irratien's view on the situation or the specific location of the arrest, which are important elements. [RESULT] 3",3
+reka-5w1h,"(Consistency) The response contains several incorrect pieces of information. It mentions that the summary was given in Etxebarriko, which is not mentioned in the original text. The response also states that the summary includes information about Ertzaintzak starting the investigation, which is not present in the original text. [3]",3
+reka-5w1h,(Consistency) [RESULT] 3,3
+reka-5w1h,(Consistency) [RESULT] 5,5
+reka-5w1h,"(Consistency) The response provides a detailed and accurate summary of the original text, capturing key points such as Itziar Lakari's role at Eusko Ikaskuntza-Laboral Kutxa, her contributions to the field of experimental and neuro-linguistics research, and the establishment of Euskara Sustatzeko Zuzendaritzako as the main office of EHU Euskal Herriko University. However, it slightly omits some details like the exact year when the first experimental and neuro-linguistics research team was established. [RESULT] 4",4
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,"(Zer) The response starts with correct information but fails to mention the key points such as the reason for the incident, the actions taken by the company, and the outcome. It lacks consistency with the original text. [2]",3
+reka-5w1h,(Consistency) [RESULT] 5,5
+reka-5w1h,"(Consistency) The response includes several factual inaccuracies and omissions compared to the reference answer. It incorrectly mentions Roberto Ruiz Hika as the txakolindegiko sukaldaria, which is not mentioned in the original text. Additionally, it does not cover all key points such as the specific goals of the project and the involvement of Hazi fundazioa and universities. [RESULT] 3",3
+reka-5w1h,(Zer) [RESULT] 4,4
+reka-5w1h,"(Zer) [RESULT] 5
+
+The response accurately summarizes the key points of the original text, including the author's name, the book title, and the main themes discussed. There are no hallucinated facts or incorrect information present.",3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,"(Consistency) The response accurately captures the key points of the original text, including the timing (Azaroaren 21ean), the company (Siemens Gamesa), the issues faced (cost increases, technological advancements, Chinese company dominance), and the reactions (potential localization and sector support). However, it omits some details such as the specific mention of Reuters and the exact quotes from the executives. It also simplifies the information about the sector's future, focusing more on the company's situation rather than the broader sector trends.
+
+[RESULT] 4",4
+reka-5w1h,"(Consistency) The response includes several incorrect pieces of information, such as the details about Torregarai using Josunestilist as an alter ego and creating a character named Tinte. These details are not mentioned in the original text. [3]",3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,(Consistency) [RESULT] 4,4
+reka-5w1h,(Consistency) [RESULT] 4,4
+reka-5w1h,"(Zer) [RESULT] 1
+
+The response starts with a very brief and incomplete summary, omitting most of the key details provided in the original text. It does not contain any of the important information such as the specific details about the players' performance, the match result, and the context of the match within the league. The response does not align with the factual content of the original text and fails to capture the essence of the match report.",3
+reka-5w1h,"(Zer) [RESULT] 4
+
+The response contains some accurate information but also includes details not present in the original text, such as the specific quotes from Marina Marroqui and Jose Luis Garcia. This makes the summary less consistent with the source document.",3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,"(Zer) The response lacks details present in the reference answer, such as the involvement of three attackers, the specific actions of the attackers and their targets, and the reactions of the crowd and authorities. It also omits important information about the government's response and international reactions. [2]",3
+reka-5w1h,(Zerrendatik informazio bat zehaztica ez da) [RESULT] 2,2
+reka-5w1h,"(Zer) The response starts with a good summary but then deviates significantly, adding new information not present in the original text. It mentions ""Mehatxua"", which is not part of the original source. [2]",3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,"(Consistency) The response provides a basic outline but contains several incorrect pieces of information, such as omitting key details about Navalni's age, his Sakharov prize, and the involvement of the Kremlin officials. [3]",3
+reka-5w1h,(Consistency) [RESULT] 4,4
+reka-5w1h,(Konsistentez) [RESULT] 3,3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,"(Zergatik) Ez dago informazio asko berri batzuk hartuta, baina erorietako monumentua ez dira ukitzen eta erantzun bat daitezkeela, baina ez da sartu. [RESULT] 3",3
+reka-5w1h,(Zer) (Score 5),5
+reka-5w1h,(Consistency) [RESULT] 4,4
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,(Consistency) [RESULT] 4,4
+reka-tldr,"(Consistency) [3] The summary contains several incorrect pieces of information. For example, it states that Real got 40 points, which is not mentioned in the original text. Additionally, it incorrectly mentions that Real was at the top of the league, while the original text does not provide such information.",3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,"(Consistency) The response accurately summarizes the main points of the original text, including the decision of Bilboko Udalak to allow a limited number of high-end cars, the criticism from Jauzi Ekosoziala, and the preference for public transportation and alternatives. However, it omits some details such as the specific mention of protests and the detailed arguments against high-end cars. Despite this, the core message is preserved. [5]",3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,"(Consistency) The response accurately reflects the key points of the original text, including the idea of creating a protocol for handling various types of abuse, the concern about the effectiveness of current protocols, and the intention to conduct a survey among professionals and organizations. However, it omits some specific details such as the names of organizations involved and the exact phrasing of some statements. [5]",3
+reka-tldr,(Consistency) [RESULT] 4,4
+reka-tldr,(Consistency) [4],3
+reka-tldr,(Consistency) [RESULT] 4,4
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,"(Consistency) The response provides a concise summary of the key points mentioned in the original text, such as Itziar Laka's role, the establishment of the first experimental and neuro-linguistic research team in 2010, and the significant contributions to the scientific and cultural preservation of the Basque language. However, it omits some important details, such as the specific date of Laka's birth (1962), her location (Getxo, Bizkaia), and the current position at EHU Euskal Herriko University. Additionally, it simplifies the description of the achievements without providing the full scope of the epistemological advancements mentioned in the reference answer.
+
+[3]",3
+reka-tldr,"(Consistency) The response provides a concise and accurate summary of the original text, mentioning key details such as the establishment of the center in Gasteiz, its operation hours, and the services provided. However, it lacks some specific details present in the reference answer, such as the exact date of the center's establishment, the specific phone number and website, and the legal context regarding the center's establishment. [4]",3
+reka-tldr,(Consistency) [RESULT] 3,3
+reka-tldr,(Consistency) [RESULT] 3,3
+reka-tldr,(The summary contains several incorrect pieces of information.) [RESULT] 3,3
+reka-tldr,(The summary contains once incorrect piece of information.) [RESULT] 4,4
+reka-tldr,"(Consistency) The response accurately captures key elements such as the author, the book title, and the main themes like the protagonist's experiences and the family institution. However, it lacks details about the poem ""Ebakiduraariketak"" and the complex relationship portrayed in the sari. There are no hallucinated facts, but some important information is missing. [RESULT] 4",4
+reka-tldr,"(Consistency) The response mentions key details such as Maitane Azurmendi, the project WikiEmakumeok, and the fact that the paintings are displayed at Durangoko Arte eta Historia Museum. However, it incorrectly omits several important names (Gurutzi Arregi, Begoña Ereñaga, Gloria Zubia, Elbira Inurrieta) and the specific role of the paintings in the project. It also does not mention the historical names that were not properly represented and the artist's personal touch in her paintings. 
+
+[RESULT] 3",3
+reka-tldr,(Consistency) [RESULT] 4,4
+reka-tldr,"(Score 4) The summary contains once incorrect piece of information. Specifically, the reference answer mentions that ""lurreko haize errotak egiten dituzten enpresek errentagarritasun arazo larriak izan dituzte azken bi urteetan hiru arazo nagusirengatik,"" whereas the response only mentions three specific issues (cost inflation, advanced technology, and Chinese market dominance) without explicitly stating they are the main reasons for the difficulties. This slight inconsistency in the phrasing affects the accuracy of the summary. [4]",3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,"(Consistency) [4] The summary contains one incorrect piece of information. It states that 55 million euro worth of contraband was seized, whereas the original text mentions that the total value of the contraband was 55 million euros more than the seized items. This discrepancy reduces the score from 5.",3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,(Consistency) [RESULT] 3,3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,"(Consistency) The response does not contain any hallucinated facts but misses some key details and context provided in the reference answer. It lacks specific mentions of the documentary's production location, the involvement of Marina Marroqui, and the exact emission dates of the documentary on ETB2k and TV3. [3]",3
+reka-tldr,(Consistency) [RESULT] 3,3
+reka-tldr,(The summary contains several incorrect pieces of information.) [RESULT] 3,3
+reka-tldr,(Consistency) [RESULT] 3,3
+reka-tldr,"(Consistency) The response accurately captures the main points of the original text without adding any new or incorrect information. It mentions the criticism of the Spanish government towards energy companies, the need for regulations or financial incentives, the inactivity of Repsol and Petronor in decarbonization efforts, and the criticism of the Basque Government's strategy by LAB. It also includes the stance of the trade unions regarding fiscal reform. [5]",3
+reka-tldr,"(Consistency) The response accurately captures the main points of the original text, including the author's name, the poetry collection's theme, and the concept of the work. However, it omits some specific details provided in the original text, such as the praise from critics about the rhythm and musicality of the poems, and the specific titles of other works mentioned. Additionally, it does not include the author's academic background or the fact that this is her first literary work. [RESULT] 4",4
+reka-tldr,"(Consistency) The response provides a largely accurate summary but omits key details such as Navalni's previous 30-year prison sentence, his recent 2021 Sakharov prize, and the specific actions of the Kremlin officials mentioned in the reference. It also does not capture the full extent of the opposition leader's significance and the reactions from his supporters and the international community. [4]",3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,(Consistency) [RESULT] 4,4
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,"(Consistency) The response accurately captures the main points of the original text, including the locations where the graffiti was painted, the content of the messages, and the actions of EH Bilduk. However, it slightly omits the specific mention of ""Los caidos no se tocan"" being a response to the protests. [4]",3
+reka-tldr,"(Consistency) The response provides a concise summary but omits several key details present in the reference answer, such as the specific challenges related to inflation and the role of Chinese suppliers, and the emphasis on simplifying wind turbine designs and maintaining a competitive industry. It also lacks the detailed structure and specific examples provided in the reference. [RESULT] 3",3
+reka-tldr,(Consistency) [RESULT] 4,4
+reka-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+reka-tldr,"(Consistency) The response mentions key points such as the proposal of a new status for the Basque Country, the potential agreement with EH Bildu and PSE-EE, and Arnaldo Otegi's stance. However, it lacks details about specific percentages mentioned in the reference answer and the emphasis on social rights and cohesion in the proposed new statute. It also omits the importance of the pause offered by the law and the detailed discussion on the social rights aspect. [3]",3
+llama3-base,(Consistency) [RESULT] 2,2
+llama3-base,(Consistency) [RESULT] 1,1
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,(Consistency) [RESULT] 2,2
+llama3-base,"(Consistency) The response states that the Nafarroako Parlamentu (Nafarroan Parliament) agreed to accept the 1978 San Fermín incident as a crime against the people during the Franco regime, which is not entirely accurate according to the original text. The original text mentions that the Nafarroako Parlamentu (Nafarroan Parliament) received a proposal from the 1978 San Fermín group, but it did not explicitly state that they accepted it. The response lacks the detailed context provided in the reference answer about the political parties' positions and the broader historical context. [3]",3
+llama3-base,"(Consistency) The response accurately mentions the main points such as the collaboration between various organizations, the need for safety protocols, and the types of harmful behaviors that are prevalent. However, it omits crucial details like the specific organizations involved, the mention of a protocol being possibly inadequate, and the need for a survey among professionals and organizers to develop a comprehensive protocol. [3]",3
+llama3-base,"(Consistency) The response does not contain any ideas from the original text. It fails to mention that Zuhaitz Errasti was arrested by French police, and the details about her arrest location and the reason for the arrest. It also omits the information that she was previously convicted in 2017 and the social media reaction. [RESULT] 1",1
+llama3-base,"(Consistency) The response mentions that a woman protested against sexual harassment at a town event in Etxebarriko (Bizkaia), which is consistent with the original text. However, it omits crucial details such as the specific actions taken by Etxebarriko Udalak, the elkarretaratzea (face-to-face meeting) in Zintururi square, and the statement made by the Udalak in their press release. Additionally, it does not mention that ertzaintzak (investigations) were initiated but have not yet led to any arrests. As a result, the response contains several incorrect or missing pieces of information. [3]",3
+llama3-base,(Consistency) [RESULT] 2,2
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,(Consistency) [RESULT] 4,4
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,"(Consistency) The response incorrectly states that the employee was hired in a strip club scenario, which is not mentioned in the original text. It also omits key details such as the age of the employee and the specific actions leading to his termination. [RESULT] 2",2
+llama3-base,(Consistency) [RESULT] 4,4
+llama3-base,(Consistency) [RESULT] 3,3
+llama3-base,"(Consistency) The response contains several incorrect pieces of information. It mentions that Nadia Erostarbe, Janire Gonzalez-Etxabarri, Joan Duru, and Andy Criere are going to participate in the Paralympic Games, which is not aligned with the original text that states they are going to participate in the Olympics. Additionally, it incorrectly states that Erostarbe was second, Duru was third, and Gonzalez-Etxabarri was fourth in the World Surfing Championships, while the original text indicates that Erostarbe won second place, Duru won first place, and Gonzalez-Etxabarri won third place. 
+
+[3]",3
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,"(Consistency) The response includes some factual inaccuracies and additional information not present in the original text. For example, it mentions ""Gurutzi Arregi, Begoña Ereñaga, Gloria Zubia, eta Elbira Inurrieta"" as the emakumeren who made the portraits, which contradicts the original text. Also, it incorrectly states that the portraits are displayed at Durangoko Arte eta Historia Museoan, whereas the original text mentions they are displayed at Durangoko Arte eta Historia Museoan (Bizkaia). Additionally, it incorrectly claims that the portraits are of historical figures, when the original text suggests they are of contemporary women.
+
+[3]",3
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,"(Consistency) The response provides a fairly accurate summary of the original text, mentioning key points such as Siemens Gamesa's plans, challenges faced by the sector, and the calls for support from various stakeholders. However, it lacks some important details like the specific mention of cost increases, technological advancements, and the particular risk faced by the sector due to Chinese company dominance. It also omits the exact number of employees at Siemens Gamesa in the Basque Country. [RESULT] 4",4
+llama3-base,(Consistency) [RESULT] 4,4
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,(Consistency) [RESULT] 1,1
+llama3-base,(Consistency) [RESULT] 3,3
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,"(The summary contains incorrect information. It does not mention that the documentary was created with the participation of an amateur, nor does it include the details about the age of children involved in sexual activities.) [RESULT] 3",3
+llama3-base,(Iñaki Artola da pilotari onena) [RESULT] 1,1
+llama3-base,(Consistency) [RESULT] 1,1
+llama3-base,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+llama3-base,"(Consistency) The response contains several incorrect pieces of information. It misses key details such as the specific criticism of energy companies' current practices, the mention of a potential compromise between PSOE and Sumar regarding investments, and the call for a fiscal reform by LAB. [3]",3
+llama3-base,"(Consistency) The response mentions that Beñat Arruti Irigoienek has started a poetry competition for professional writers in Donostia Kultura, focusing on archeology, and that a grant and a prize have been offered, which aligns with the original text. However, it misses key points such as the specific achievements and characteristics highlighted by the critics, the concept and themes explored in his work, and the fact that he studied psychology at the University of the Basque Country and later completed a master's degree in Research and Social Psychology in Barcelona. The response does not mention that his literature is the first to be published after an extensive process. [RESULT] 3",3
+llama3-base,"(Consistency) The response mentions that Navalni was sentenced to 30 years in a strict regime prison, which is inconsistent with the original text stating he was sentenced to 30 years in general regime prison. The response also does not mention that Navalni received the Sakharov Prize in 2021, which is a fact from the original text. Furthermore, the response omits several important details about Navalni's activities and the context surrounding his arrest.
+
+[RESULT] 2",2
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,"(Consistency) The response states that Kutxabankek provided 2.116 million euros for projects related to energy efficiency, which is consistent with the original text. However, it omits important details such as the breakdown of the funds, specific project types, and the introduction of a specialized mortgage product. [RESULT] 3",3
+llama3-base,"(Consistency) The response mentions that more than 250 professionals and gastronomy sector representatives gather in Arkauti, which is not consistent with the original text, which states that more than 250 public members gather there. This is a single incorrect piece of information. [4]",3
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-base,(Consistency) [RESULT] 2,2
+llama3-base,"(Consistency) The response mentions that faxistak egin dituzte Iruñeko Alde Zaharrean and EH Bilduren egoitzean, which is consistent with the source. However, it omits details about the specific actions (like painting messages on the monument's side, swastikas, and David's symbols) and EH Bildu's reaction. It also does not mention that the protest was against removing the monument.
+
+[RESULT] 3",3
+llama3-base,"(Consistency) The response provides a general idea of the key points but does not fully capture the specific details and nuances present in the reference answer, such as the exact measures being considered by the European Commission and the specific challenges faced by the wind energy sector. It also lacks the detailed breakdown of the actions and initiatives mentioned in the reference answer. [3]",3
+llama3-base,(Consistency) [RESULT] 4,4
+llama3-base,"(Consistency) [RESULT] 4
+
+The response mentions that the Galeusca topaketak will be held in Palman on May 29th, which is correct. However, it does not mention that the topaketak are being organized by the Euskal, Catalanezko, and Galizierazko Idazleen Elkarteak, nor does it mention that the purpose is to promote the indartza (literary collaboration) among the three national literatures. Additionally, the response does not mention the fact that the meeting is part of a program celebrating the 40th anniversary of a manifesto. These details are not present in the response, leading to a score of 4 out of 5.",4
+llama3-base,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,(Consistency) [RESULT] 2,2
+llama3-core,(Consistency) [RESULT] 4,4
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,"(Consistency) The response provides a concise summary of the main points but includes some inaccuracies and lacks detail compared to the reference answer. It correctly mentions the difficulties in passing the immigration law project and the political division within France, but it omits important details such as the specific actions taken by the government and opposition parties, and the potential legal basis for overriding the deadlock. It also simplifies the political landscape without providing a nuanced view of the different parties' positions.
+
+[3]",3
+llama3-core,(Consistency) [RESULT] 4,4
+llama3-core,"(Consistency) The response accurately captures key points such as the protest against the low-emission zone, the criticism of favoring richer individuals, and the preference for public transportation over private cars. However, it misses some important details like the specific mention of Bilbao's urban planning challenges and the support for the local bus service. Additionally, the reference answer provides more comprehensive coverage of the opposition arguments and the preference for public transportation and alternative modes of transport. [4]",3
+llama3-core,(Consistency) [RESULT] 2,2
+llama3-core,"(Consistency) The response provides a consistent summary of the original text, accurately reflecting the key points without introducing any new or incorrect information. [5]",3
+llama3-core,"(The summary lacks detail and does not capture the essence of the original text, including key points such as the specific organizations involved, the nature of the protocols, and the concerns about inconsistent adherence.) [RESULT] 2",2
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,(Consistency) [RESULT] 2,2
+llama3-core,(Consistency - the factual alignment between the summary and the summarized source.) [RESULT] 2,2
+llama3-core,"(Consistency) The response only mentions that the Errobiko bederatzi hautetsik criticize Peio Etxelekuri for proposing to dismiss the regional council, but it fails to capture the details about the specific arguments made by the hautetsi against Etxelekuri, such as the criticism of Euskal Hirigune Elkargoko's governance contract and the call for more transparency in the regional council proposals. It also omits the mention of the specific 11 auzapezak and their stance, as well as the broader context of the governance of the region. [RESULT] 3",3
+llama3-core,"(Consistency) The response does not contain all the key information from the original text, such as the details about the first experimental and neuro-linguistic research team established in 2010, the current position of Euskara Sustatzeko Zuzendaritzako at EHU, and the significant impact of the research projects led by Lakak. Additionally, it omits the mention of Lakak's birthplace and the specific contributions to the scientific and cultural aspects of the Basque language. [RESULT] 2",2
+llama3-core,"(Consistency) The response is not consistent with the original text, as it omits several important details such as the exact date of the center's opening, the specific services offered, and the broader context provided in the reference answer. [RESULT] 2",2
+llama3-core,(Consistency) [RESULT] 3,3
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,"(Consistency) The response does not accurately reflect the original text, as it omits important details such as the specific surfers mentioned, their achievements, and the context provided in the original. It also lacks the historical significance and the specific locations mentioned in the original text.
+
+[RESULT] 2",2
+llama3-core,"(Consistency) The response provides a factual summary of the original text, mentioning key elements such as the author's name, the type of work, and the main themes. However, it does not fully capture all details provided in the reference answer, such as specific examples from the text like ""Oheak gordetzen duena"" and the detailed description of the protagonist's gender ambiguity. [4]",3
+llama3-core,"(Consistency) The response incorrectly states that Maitane Azurmendi is the only one who made the portraits, while the reference includes other names like Gurutzi Arregi, Begoña Ereñaga, Gloria Zubia, and Elbira Inurrieta. It also misinterprets the role of the portraits, suggesting they represent ""inon agertzen ez diren"" instead of the actual names provided. [RESULT] 3",3
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,"(Consistency) The response does not align with the original text in several key points. It omits important details such as the specific mention of Siemens Gamesa's strategic plan, the cost increase, the technological innovation, and the riskiness of the sector. Additionally, it incorrectly states that the number of employees at Siemens Gamesa is 2.900 in the Basque Country, which is not mentioned in the original text. [RESULT] 2",2
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,"(Consistency) The response provides a factual summary but omits some important details present in the original text, such as the specific locations of the drug seizures and the number of kilos of each substance involved. It also simplifies the information about the value of the drugs found, which was specified in the original text as being more than 55 million euros. [RESULT] 4",4
+llama3-core,(Consistency) [RESULT] 3,3
+llama3-core,(Consistency) [RESULT] 2,2
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,"(The summary lacks key details from the original text, such as the specific locations where the documentary was produced, the involvement of Marina Marroqui, and the content covered in the documentary.) [RESULT] 2",2
+llama3-core,"(Consistency) The response does not contain any ideas from the original text. It merely states ""Iñaki Artola pilotariak"" which does not convey any specific information about Artola's performance or the context provided in the original text. [RESULT] 1",1
+llama3-core,(The summary contains once incorrect piece of information.) [RESULT] 4,4
+llama3-core,"(Consistency) The response provides a good summary but includes some additional information not present in the original text, such as details about Euskal Herria and the specific historical context of the documentary. This slightly deviates from the reference answer which focuses more narrowly on the core elements of the text. [4]",3
+llama3-core,"(Consistency) The response provides a factual summary of the key points from the original text without introducing any new or incorrect information. However, it lacks some important details present in the reference answer, such as the specific criticism of the economic situation and the mention of the labor movement's stance on the energy transition strategy. [4]",3
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,(Consistency) [RESULT] 2,2
+llama3-core,(Consistency) [RESULT] 4,4
+llama3-core,"(Consistency) The response mentions the correct amount of money (2.116 milioi euro) that Kutxabankek provided for financing projects related to energy efficiency, which is consistent with the original text. However, it omits details about the specific types of projects, the significant portion of money allocated to private individuals, and the details about the special credit for consumers. The response lacks consistency in providing a comprehensive summary.
+
+[RESULT] 3",3
+llama3-core,"(Consistency) The response provides a partial summary of the original text but lacks several key details present in the reference answer, such as the specific location (Arkauti) and the number of professionals involved (250). It also misses mentioning the role of the gastronomy sector and the specific goals of the event. [3]",3
+llama3-core,(Consistency) [RESULT] 4,4
+llama3-core,(Consistency) [RESULT] 3,3
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,(Consistency) [RESULT] 4,4
+llama3-core,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-core,"(Consistency) The response correctly mentions the key points such as EAJk's proposal for a new status, negotiations with EH Bildu and PSE-EE, and the defense of a new social charter for Araba, Bizkai, and Gipuzkoa. However, it misses important details like the involvement of Andoni Ortuzar, the potential agreement with EH Bildu and PSE-EE, and the specific conditions set by Arnaldo Otegi. Additionally, it does not mention the proposed timeline of one year for the negotiation process. [RESULT] 4",4
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 3,3
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 5,5
+llama3-5w1h,(Consistency) [RESULT] 5,5
+llama3-5w1h,"(Consistency) The response correctly identifies the key points such as Zuhaitz Errasti being arrested, the time and place, and the reason for the arrest. However, it does not mention the specific details about the arrest being made by the French Police, the time for the meeting with the Gendarmerie, and the implication from Euskal Irrati about the arrest being due to suspicion. Additionally, the response uses the 5W1H method which is not aligned with the task instruction to provide a summary. [3]",3
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,(Consistency) [RESULT] 5 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 5,5
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,"(Consistency) The response provides a structured summary using the 5W1H method, but it does not fully capture all the details from the original text, such as the specific actions taken by the company regarding the worker's misconduct and the subsequent agreement reached through a legal contract. It also lacks the mention of sindikatuak's concerns about the company's working conditions. [RESULT] 3",3
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,"(Consistency) The response accurately reflects the original text, mentioning key points such as the Ruraltxa project, the traditional use of mountain grazing, the involvement of various organizations, and specific details about the project's goals and activities. [5]",3
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,"(Consistency) The response accurately summarizes key points from the original text, such as the author, the work's genre, and its thematic elements. However, it does not include all the specific details provided in the reference answer, like the mention of the protagonist's gender being unspecified and the detailed description of the setting. [4]",3
+llama3-5w1h,(Consistency) [RESULT] 5,5
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 5,5
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,"(Consistency) The response contains several incorrect pieces of information and hallucinates some details not present in the original text. It incorrectly mentions Aragones summarizing the hamahiru legebiltzarkide galtze's vote numbers and their political block status, which are not aligned with the original text. [3]",3
+llama3-5w1h,(Consistency) [RESULT] 5,5
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,"(Consistency) The response provides a factually consistent summary of the original text, accurately capturing key details such as the location, timing, and nature of the incident. It correctly mentions the involvement of armed individuals, the arrest of a few suspects, and the subsequent actions taken by authorities. However, it omits some important contextual details present in the reference answer, such as the specific number of casualties, the role of social media, and the international reaction.
+
+[4]",4
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,(Consistency) [RESULT] 5,5
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,(Consistency) [RESULT] 5,5
+llama3-5w1h,(Consistency) The response provides a detailed breakdown of the information from the original text but does not fully capture the essence of the financial details and specific projects mentioned. It lacks the precise financial figures and the context provided in the reference answer. [Score 3],3
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-5w1h,(Consistency) [RESULT] 4,4
+llama3-5w1h,"(Consistency) The response includes some accurate details but misses key points from the original text, such as the specific timeline of 40 years since the first Galeuscan edition, and the emphasis on the significance of the 1984 manifesto. It also lacks the mention of the three literature unions and their roles. [RESULT] 3",3
+llama3-5w1h,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,(Consistency) [RESULT] 3,3
+llama3-tldr,(Consistency) [RESULT] 3,3
+llama3-tldr,"(Consistency) The response mentions that Real 1-2 defeated Mallorca, which is inconsistent with the original text where Mallorca won 2-1. Also, the response omits several key details such as the specific goals scored by Mallorca and Real, the protest by the Mallorca captain, and the final score being 40 points for Real. [3]",3
+llama3-tldr,(Consistency) [RESULT] 3 (an integer number between 1 and 5),3
+llama3-tldr,(Consistency) [RESULT] 3,3
+llama3-tldr,"(Consistency) The response mentions that Bilboko Udalak will propose a low-emission area in the city center and will consider restricting larger vehicles over time, which is consistent with the original text. However, it omits key details such as the criticism of the proposal being ""classist,"" the debate about whether the proposal primarily affects peripheral areas, and the suggestion to promote public transport and cycling instead of private cars. It also misses the mention of Bilbao's bus drivers and workers' support for the project and the criticism of the project by environmental activists. [RESULT] 3",3
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,"(Consistency) The response contains several incorrect pieces of information, such as the fact that the reference answer mentions the presence of a reference to the 1978 incident and the specific details about the number of casualties, which are not aligned with the response. [3]",3
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,(Consistency) The response does not contain any ideas from the original text. [RESULT] 1,1
+llama3-tldr,(Consistency) The response contains several incorrect pieces of information from the original document. It omits key details such as the specific actions of the community members and the location of the protest. [3],3
+llama3-tldr,(Consistency) [RESULT] 3,3
+llama3-tldr,"(Consistency) The response states that the Errobiko bederatzi hautetsik criticized Peio Etxelekuri's decision to dismiss the lurralde eremuko ordezkaritza, but it does not fully capture the detailed criticism provided in the original text. It lacks the specific points about the ""print principle,"" the number of auzapezak who disagreed, and the emphasis on the need for informatu and kontsultatu. [3]",3
+llama3-tldr,"(Consistency) The response mentions that Itziar Laka holds a position at Eusko Ikaskuntza-Laboral Kutxa but does not provide details about her role or the specific field she works in, nor does it mention the experimental and neuro-linguistic research that was initiated in 2010 or the current status of Euskara Sustatzeko Zuzendari. These omissions make the summary incomplete and inconsistent with the original text. [3]",3
+llama3-tldr,(Consistency) [RESULT] 4,4
+llama3-tldr,(Consistency) [RESULT] 2,2
+llama3-tldr,(Consistency) [RESULT] 4,4
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,(Consistency) [RESULT] 4,4
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,"(Consistency) The response incorrectly states that Maitane Azurmendi is from Mungia, Bizkaia, instead of Mungia, 1978. It also omits several key details such as the involvement of other emakumeren, the specific project WikiEmakumeok, and the fact that the images are not just historical but also visually rich and well-illustrated. [RESULT] 3",3
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,(Consistency) [RESULT] 3,3
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,"(Consistency) The response contains several incorrect pieces of information, such as the details about the quantity of drugs seized and the specific locations where the arrests took place. [3]",3
+llama3-tldr,(Consistency) [RESULT] 2,2
+llama3-tldr,(Consistency) [RESULT] 2,2
+llama3-tldr,(Consistency) [RESULT] 3,3
+llama3-tldr,"(Consistency) The response contains several incorrect pieces of information, such as missing details about the involvement of Shine Iberia and the specific content discussed during the documentary's premiere. [3]",3
+llama3-tldr,(Consistency) [RESULT] 3,3
+llama3-tldr,"(Consistency) The response mentions fewer details compared to the reference answer, such as the number of people killed and injured, the specific actions of the attackers before the attack, and the reactions of social media users. It also omits the information about the Federal Security Service of Russia declaring ""necessary measures"" and the Ukrainian government's denial of involvement. The response does not contain incorrect information but lacks the depth and comprehensiveness of the reference answer. [3]",3
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,"(Consistency) The response mentions that Beñat Arruti Irigoienek irabazi du idazle gazteentzako Donostia Kultura poesia lehiaketa, and that he works in arkeologia, which is consistent with the original text. However, it does not mention the key points such as the 1.000 euro prize, the collaboration with Imanol Larrinaga, the poetry book published by Balea Zuria, or the concept explored in his poems. Additionally, it does not include the details about his academic background and the literary work he has published. [RESULT] 2",2
+llama3-tldr,"(Consistency) The response provides a partial summary but includes several incorrect pieces of information. For example, it does not mention Navalni's age, his arrest location, or the official stance of the Russian government regarding his arrest. It also lacks details about his previous protests and the critical role he plays against President Putin. [3]",3
+llama3-tldr,(Consistency) [RESULT] 4,4
+llama3-tldr,"(Consistency) The response mentions that Kutxabankek provided 2.116 million euros for projects related to energy efficiency and renewable energy, which is consistent with the original text. However, it does not mention the specific types of projects or the fact that a special mortgage called Hipoteka Berdea was created for energy-efficient buildings, nor does it mention the financial details such as the amount 721 million euros being offered to individual borrowers at a rate higher than 6.7% in the previous year. [RESULT] 3",3
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
+llama3-tldr,(Consistency) [RESULT] 3,3
+llama3-tldr,"(Consistency) The response provides a summary that is largely consistent with the original text but lacks some key details and context provided in the reference answer. It correctly mentions the author, the year of publication, and the structure of the book, but it misses important points such as the specific content areas covered in each section, the significance of the metaforas used, and the personal and professional journey of the author. 
+
+[RESULT] 3",3
+llama3-tldr,(Consistency) [RESULT] 3,3
+llama3-tldr,"(Consistency) The response accurately captures the key points about the challenges faced by the wind industry and the measures proposed by the European Commission to support it, without introducing any new or incorrect information. However, it lacks some specific details present in the reference answer, such as the role of Chinese suppliers and the exact amounts involved in financial support. [RESULT] 4",4
+llama3-tldr,(Consistency) [RESULT] 4,4
+llama3-tldr,(Consistency) [RESULT] 4,4
+llama3-tldr,(Consistency) [RESULT] 4 (an integer number between 1 and 5),3
